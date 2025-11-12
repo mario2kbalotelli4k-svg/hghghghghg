@@ -1,0 +1,46 @@
+name: smart_market
+description: A modern currency portfolio app using Flutter.
+
+publish_to: 'none'
+version: 1.0.1+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  syncfusion_flutter_charts: ^29.2.11  # تم تصحيح الخطأ هنا
+  # Firebase removed per request
+  share_plus: ^7.2.1
+  shared_preferences: ^2.0.15
+  http: ^1.4.0
+  intl: ^0.20.2
+  csv: ^5.0.0
+  flutter_local_notifications: ^19.2.1
+  # google_mobile_ads removed per request
+  flutter_localizations:
+    sdk: flutter
+  url_launcher: ^6.1.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.3
+  flutter_lints: ^5.0.0
+
+flutter_launcher_icons:
+  android: true
+  image_path: "assets/icon/app_icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/gold/gold_bar.png
+    - gold.json
+    - currency.json
+    - data/crypto_sdg.json
+  # firebase.json removed
+
+flutter_intl:
+  enabled: true

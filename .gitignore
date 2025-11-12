@@ -1,0 +1,55 @@
+﻿# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-deps
+.flutter-embedding
+.flutter-versions
+
+# Android
+**/local.properties
+**/.gradle/
+**/gradle-wrapper.jar
+**/out/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/Runner.xcworkspace/
+**/Flutter/.symlinks
+
+# VS Code & IntelliJ
+.vscode/
+.idea/
+*.iml
+
+# macOS
+macos/Flutter/Flutter.framework
+macos/Flutter/ephemeral/
+
+# Windows
+windows/runner/Debug/
+windows/runner/Release/
+windows/flutter/ephemeral/
+
+# Misc
+*.log
+*.lock
+*.keystore
+*.jks
+*.p12
+*.pem
+
+# Build outputs & generated files
+**/build/
+pubspec.lock
+
+# ignore user-specific files
+*.swp
+.DS_Store
