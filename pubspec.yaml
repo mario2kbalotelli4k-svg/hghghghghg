@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_svg: ^1.1.1
   syncfusion_flutter_charts: ^29.2.11  # تم تصحيح الخطأ هنا
   # Firebase removed per request
   share_plus: ^7.2.1
@@ -36,10 +37,7 @@ flutter_launcher_icons:
 flutter:
   uses-material-design: true
   assets:
-    - assets/images/gold/gold_bar.png
-    - gold.json
-    - currency.json
-    - data/crypto_sdg.json
+    - assets/images/gold/gold_bar.svg
   # firebase.json removed
 
 flutter_intl:

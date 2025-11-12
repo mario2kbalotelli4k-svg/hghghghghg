@@ -52,7 +52,7 @@ class _SplashScreenState extends State<SplashScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              'Smart Currency',
+              'Smart market',
               style: TextStyle(
                 fontSize: 34,
                 fontWeight: FontWeight.bold,

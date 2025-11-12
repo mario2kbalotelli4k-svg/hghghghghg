@@ -12,6 +12,7 @@ import 'package:share_plus/share_plus.dart';
 import 'config.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:smart_market/gold_screen.dart';
+import 'services/sync_service.dart';
 // Firestore removed
 import 'package:shared_preferences/shared_preferences.dart';
  
@@ -56,6 +57,9 @@ Future<bool> shouldNotify(String currency, double difference) async {
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  // initialize the SyncService so it starts polling remote JSON files
+  final sync = SyncService();
+  await sync.init();
 
   const AndroidInitializationSettings initializationSettingsAndroid =
       AndroidInitializationSettings('@drawable/app_icon');
@@ -1032,6 +1036,7 @@ class _MorePageState extends State<MorePage> {
   }
 
   // Local news notification helper (kept for future use)
+  // ignore: unused_element
   Future<void> _sendLocalNewsNotification(String title) async {
     await flutterLocalNotificationsPlugin.show(
       0,

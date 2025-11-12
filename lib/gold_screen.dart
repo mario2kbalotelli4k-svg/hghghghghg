@@ -5,6 +5,7 @@ import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:csv/csv.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 class GoldScreen extends StatefulWidget {
   const GoldScreen({super.key});
@@ -216,6 +217,10 @@ class _GoldScreenState extends State<GoldScreen> {
 
     return Scaffold(
       appBar: AppBar(
+        leading: Padding(
+          padding: const EdgeInsets.all(8.0),
+          child: _goldImage(size: 32),
+        ),
         title: const Text('أسعار الذهب'),
         backgroundColor: isDark ? const Color(0xFF181A20) : Colors.white,
         elevation: 0,
@@ -293,11 +298,7 @@ class _GoldScreenState extends State<GoldScreen> {
                         child: Column(
                           children: [
                             ListTile(
-                              leading: Image.asset(
-                                'assets/images/gold/gold_bar.png',
-                                width: 60,
-                                height: 60,
-                              ),
+                              leading: _goldImage(size: 60),
                               title: Text(
                                 'عيار $karat',
                                 style: const TextStyle(
@@ -383,6 +384,26 @@ class _GoldScreenState extends State<GoldScreen> {
                   ),
                 ),
         ],
+      ),
+    );
+  }
+
+  Widget _goldImage({double size = 32}) {
+    // Prefer the SVG asset (crisp at any scale). If for some reason it fails,
+    // fall back to the amber circle icon we used before.
+    return SizedBox(
+      width: size,
+      height: size,
+      child: SvgPicture.asset(
+        'assets/images/gold/gold_bar.svg',
+        width: size,
+        height: size,
+        fit: BoxFit.contain,
+        placeholderBuilder: (context) => Icon(
+          Icons.circle,
+          size: size,
+          color: Colors.amber,
+        ),
       ),
     );
   }
