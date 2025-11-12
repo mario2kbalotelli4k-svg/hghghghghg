@@ -1,0 +1,7 @@
+{
+  "title": "Calculator Config",
+  "default_currency": "USD",
+  "conversion_factors": {
+    "gram_to_tola": 0.2
+  }
+}

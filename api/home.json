@@ -1,0 +1,13 @@
+{
+  "title": "Home Configuration",
+  "sections": [
+    {
+      "id": "top_markets",
+      "title": "Top markets",
+      "items": [
+        { "name": "Gold", "type": "gold" },
+        { "name": "USD", "type": "currency" }
+      ]
+    }
+  ]
+}
