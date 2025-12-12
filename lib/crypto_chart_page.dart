@@ -40,13 +40,13 @@ class _CryptoChartPageState extends State<CryptoChartPage> {
     '7d': '7 أيام',
   };
 
-  ZoomPanBehavior _zoomPanBehavior = ZoomPanBehavior(
+  final ZoomPanBehavior _zoomPanBehavior = ZoomPanBehavior(
     enablePanning: true,
     enablePinching: true,
     zoomMode: ZoomMode.x,
   );
 
-  TrackballBehavior _trackballBehavior = TrackballBehavior(
+  final TrackballBehavior _trackballBehavior = TrackballBehavior(
     enable: true,
     activationMode: ActivationMode.singleTap,
     tooltipSettings: InteractiveTooltip(
@@ -84,7 +84,7 @@ class _CryptoChartPageState extends State<CryptoChartPage> {
       isLoading = true;
     });
 
-    final symbol = widget.symbol.toUpperCase() + 'USDT';
+    final symbol = '${widget.symbol.toUpperCase()}USDT';
     final url =
         'https://api.binance.com/api/v3/klines?symbol=$symbol&interval=$interval&limit=500';
 
@@ -155,9 +155,11 @@ class _CryptoChartPageState extends State<CryptoChartPage> {
             'https://play.google.com/store/apps/details?id=com.yourapp.id',
       );
     } catch (e) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text('حدث خطأ أثناء مشاركة الصورة')),
-      );
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('حدث خطأ أثناء مشاركة الصورة')),
+        );
+      }
     }
   }
 
@@ -243,7 +245,7 @@ class _CryptoChartPageState extends State<CryptoChartPage> {
                         padding: const EdgeInsets.symmetric(
                             horizontal: 10, vertical: 6),
                         decoration: BoxDecoration(
-                          color: priceColor.withOpacity(0.08),
+                          color: priceColor.withValues(alpha: 0.08),
                           borderRadius: BorderRadius.circular(8),
                         ),
                         child: Row(
@@ -346,7 +348,7 @@ class _CryptoChartPageState extends State<CryptoChartPage> {
                               xValueMapper: (CandleChartData data, _) => data.x,
                               yValueMapper: (CandleChartData data, _) =>
                                   data.volume,
-                              color: Colors.blueGrey.withOpacity(0.3),
+                              color: Colors.blueGrey.withValues(alpha: 0.3),
                               width: 0.8,
                             ),
                           ],

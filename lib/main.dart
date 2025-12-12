@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 // Firebase removed
 import 'dart:async';
-import 'package:flutter/foundation.dart';
 import 'package:csv/csv.dart'; // Ensure this import is present and correct
 import 'package:smart_market/splash_screen.dart';
 import 'package:http/http.dart' as http;
@@ -334,7 +333,7 @@ class _HomePageState extends State<HomePage> {
         }
       }
     } catch (e) {
-      print('خطأ أثناء جلب سعر SDG من Google Sheet: $e');
+      debugPrint('خطأ أثناء جلب سعر SDG من Google Sheet: $e');
     }
     return null;
   }
@@ -398,7 +397,7 @@ class _HomePageState extends State<HomePage> {
         throw Exception('فشل في تحميل الأسعار من API الرئيسي');
       }
     } catch (e) {
-      print('خطأ في تحميل الأسعار: $e');
+      debugPrint('خطأ في تحميل الأسعار: $e');
       setState(() => isLoading = false);
     }
   }
@@ -1083,7 +1082,7 @@ class _MorePageState extends State<MorePage> {
         ];
       });
     } catch (e) {
-      print('❌ Error loading news stub: $e');
+      debugPrint('❌ Error loading news stub: $e');
     }
   }
 
@@ -1092,7 +1091,7 @@ class _MorePageState extends State<MorePage> {
     if (await canLaunchUrl(uri)) {
       await launchUrl(uri, mode: LaunchMode.externalApplication);
     } else {
-      print('❌ Could not launch $url');
+      debugPrint('❌ Could not launch $url');
     }
   }
 
@@ -1298,7 +1297,7 @@ class _CalculatorPageState extends State<CalculatorPage> {
         }
       }
     } catch (e) {
-      print('Error fetching SDG rate: $e');
+      debugPrint('Error fetching SDG rate: $e');
     }
     return null;
   }
@@ -1370,7 +1369,7 @@ class _CalculatorPageState extends State<CalculatorPage> {
         throw Exception('Failed to load rates from API');
       }
     } catch (e) {
-      print('Error fetching rates: $e');
+      debugPrint('Error fetching rates: $e');
       // حتى لو فشل التحديث، حاول تستخدم البيانات القديمة إن وجدت
       final cachedData = prefs.getString('rates_data');
       if (cachedData != null) {

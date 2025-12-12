@@ -11,10 +11,10 @@ class GoldScreen extends StatefulWidget {
   const GoldScreen({super.key});
 
   @override
-  _GoldScreenState createState() => _GoldScreenState();
+  GoldScreenState createState() => GoldScreenState();
 }
 
-class _GoldScreenState extends State<GoldScreen> {
+class GoldScreenState extends State<GoldScreen> {
   final String goldApiUrl =
       'https://raw.githubusercontent.com/Khatym/khatom00007/main/gold.json';
 
@@ -157,7 +157,7 @@ class _GoldScreenState extends State<GoldScreen> {
         }
       }
     } catch (e) {
-      print('Error fetching SDG rate: $e');
+      debugPrint('Error fetching SDG rate: $e');
     }
     return null;
   }
@@ -177,7 +177,9 @@ class _GoldScreenState extends State<GoldScreen> {
           final prefs = await SharedPreferences.getInstance();
           await prefs.setDouble('gold_sdg_previous_rate', sdgCurrentRate!);
         }
-      } catch (e) {}
+      } catch (e) {
+        debugPrint('Error saving SDG rate: $e');
+      }
     } else if (selectedCurrency != 'USD') {
       try {
         final res = await http.get(Uri.parse(currencyApiUrl));
@@ -186,7 +188,9 @@ class _GoldScreenState extends State<GoldScreen> {
           final rate = (data['rates'][selectedCurrency] as num?)?.toDouble();
           exchangeRate = rate ?? 1.0;
         }
-      } catch (e) {}
+      } catch (e) {
+        debugPrint('Error fetching exchange rate: $e');
+      }
     }
 
     final gramPrice = goldPriceUSD / 31.1035;
