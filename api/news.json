@@ -1,0 +1,23 @@
+{
+  "updated_at": "2025-12-12T09:28:16.452124Z",
+  "articles": [
+    {
+      "source": "bbc.com",
+      "title": "The Swiss city that lets you pay for most things with bitcoin",
+      "url": "https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d0/live/73a6a430-cf8b-11f0-a892-01d657345866.jpg"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "TON Slips 3.3% to $1.59 as Broader Crypto Market Weakens",
+      "url": "https://www.coindesk.com/markets/2025/12/11/ton-slips-3-3-to-usd1-59-as-broader-crypto-market-weakens",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7db4c99c8e66146b9ecfc6e15a87aead9b8266e4-700x430.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "BNB Drops Below $865 as Crypto Market Moves Lower",
+      "url": "https://www.coindesk.com/markets/2025/12/11/bnb-drops-below-usd865-as-crypto-market-moves-lower",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7352c65437990abf7d6de4cf7199af1e59824a08-700x430.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    }
+  ]
+}
