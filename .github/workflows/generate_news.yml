@@ -1,5 +1,8 @@
 name: Generate News
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Run daily at midnight UTC
@@ -16,6 +19,8 @@ jobs:
       with:
         # Fetch full history for proper commit
         fetch-depth: 0
+        # ensure the checkout keeps credentials so git push can authenticate
+        persist-credentials: true
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -45,5 +50,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add api/news.json
-        git commit -m "Update news articles [automated]"
+        git commit -m "Update news articles [automated]" || echo "no changes to commit"
         git push
