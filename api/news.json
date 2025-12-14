@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-13T03:42:21.161211Z",
+  "updated_at": "2025-12-14T03:53:49.743367Z",
   "articles": [
     {
       "source": "bbc.com",
@@ -9,15 +9,15 @@
     },
     {
       "source": "coindesk.com",
-      "title": "Bitcoin Plunges Below $90K as AI Worries Drag Nasdaq, Crypto Stocks Down",
-      "url": "https://www.coindesk.com/markets/2025/12/12/bitcoin-plunges-below-usd90k-as-ai-worries-drag-nasdaq-crypto-stocks-down",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/226994d25489dbe0929e16c6954ff1638303b38e-2250x1194.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Brazil’s Largest Asset Manager Recommends Investors Put Up to 3% of their Money in Bitcoin to Hedge Against FX, Market Shocks",
+      "url": "https://www.coindesk.com/business/2025/12/13/brazil-s-largest-asset-manager-recommends-investors-put-up-to-3-of-their-money-in-bitcoin-to-hedge-against-fx-market-shocks",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d7c3fdc75940e416d706653ed7778159344f2395-1000x667.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "Filecoin Trades Little Changed, Underperforms Wider Crypto Markets",
-      "url": "https://www.coindesk.com/markets/2025/12/12/filecoin-trades-little-changed-underperforms-wider-crypto-markets",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc238efebcef9ed00ab119a2245d0827e3d01000-700x430.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Crypto’s Machine Learning ‘iPhone Moment’ Comes Closer as AI Agents Trade the Market",
+      "url": "https://www.coindesk.com/business/2025/12/13/crypto-s-machine-learning-iphone-moment-comes-closer-as-ai-agents-trade-the-market",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b11b57bbdb9c1bbd647131e9f1fa00f76d6c0418-4096x3080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
