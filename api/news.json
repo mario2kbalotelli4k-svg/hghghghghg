@@ -1,6 +1,12 @@
 {
-  "updated_at": "2025-12-26T03:50:39.140841Z",
+  "updated_at": "2025-12-27T03:47:24.118934Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin sinks below $87,000 as crypto assets slide, metals soar post-Xmas",
+      "url": "https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2dc924d0f7f6ef0f6ddf97b95664779c9b0c0a19-1440x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Filecoin drops 2% as crypto markets weaken",
@@ -12,12 +18,6 @@
       "title": "Aptos' APT drops as token tracks broader crypto market weakness",
       "url": "https://www.coindesk.com/markets/2025/12/24/aptos-apt-drops-as-token-tracks-broader-crypto-market-weakness",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b471101d70669b712a18d0d86c88c54f461a3f1-700x430.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Gold knocks on a door that's been shut for 50 years as bitcoin tests a defining support",
-      "url": "https://www.coindesk.com/markets/2025/12/24/gold-knocks-on-a-door-that-s-been-shut-for-50-years-as-bitcoin-tests-a-defining-support",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8f56b8ff904533d9074ceae6786d5710607a6ee-2562x1604.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
