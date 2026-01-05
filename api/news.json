@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-04T04:16:52.041468Z",
+  "updated_at": "2026-01-05T04:36:26.117227Z",
   "articles": [
     {
       "source": "coindesk.com",
@@ -8,16 +8,16 @@
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/19be7778374a432a1d25e3cc4f6c1334f21f9e4d-4368x2912.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
+      "source": "bbc.com",
+      "title": "Gold price rises after US captures Venezuela's Maduro",
+      "url": "https://www.bbc.com/news/articles/crrnw08qvg7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c80/live/6fdd45c0-e9da-11f0-9fbf-6dd939d40a04.jpg"
+    },
+    {
       "source": "coindesk.com",
       "title": "Turkmenistan legalizes crypto mining and exchanges to boost the economy",
       "url": "https://www.coindesk.com/policy/2026/01/02/turkmenistan-legalizes-crypto-mining-and-exchanges-to-boost-the-economy",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/1546b31038f057bd36bf3656bbc94af2d4ab399f-6164x4109.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Tether adds nearly $800 million in bitcoin, bringing holdings above 96,000 BTC",
-      "url": "https://www.coindesk.com/markets/2026/01/02/tether-adds-nearly-usd800-million-in-bitcoin-bringing-holdings-above-96-000-btc",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2e3ecb2dd0afc982a2fd15713b824b337e2c807-1919x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
