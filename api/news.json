@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-01-10T03:47:41.428930Z",
+  "updated_at": "2026-01-11T04:15:38.063229Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Brazilian exchange Mercado Bitcoin outlines 6 crypto trends shaping markets in 2026",
+      "url": "https://www.coindesk.com/business/2026/01/10/brazilian-exchange-mercado-bitcoin-outlines-6-crypto-trends-shaping-markets-in-2026",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d756d0268c596d7d4022a1fb4c3fddeb43dca8a7-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Bitcoin holds near $90,000 as trading volumes shrink, altcoins diverge: Crypto Markets Today",
@@ -9,15 +15,9 @@
     },
     {
       "source": "coindesk.com",
-      "title": "Crypto crowd could still walk away from U.S. market structure bill if DeFi needs unmet",
-      "url": "https://www.coindesk.com/policy/2026/01/09/crypto-crowd-could-still-walk-away-from-u-s-market-structure-bill-if-defi-needs-unmet",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/bc5ee13cf9751912deef7f90a5b88962bb1c442d-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Crypto exchange OKX cuts institutional staff amid global restructuring",
-      "url": "https://www.coindesk.com/business/2026/01/09/crypto-exchange-okx-cuts-institutional-staff-amid-global-restructuring",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0b8518db557826b40871f6180dae7487aa501f9-1919x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "The Senate moves toward a market structure vote: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/01/10/the-senate-moves-toward-a-market-structure-vote-state-of-crypto",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/141f85b0443d5309ae7da389199a6fec8d880f37-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
