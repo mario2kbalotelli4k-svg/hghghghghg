@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-01-17T01:00:49.681794Z",
+  "updated_at": "2026-01-18T01:07:56.355306Z",
   "articles": [
-    {
-      "source": "coindesk.com",
-      "title": "Bitcoin consolidates, dash outperforms in quiet crypto session: Crypto Markets Today",
-      "url": "https://www.coindesk.com/markets/2026/01/16/bitcoin-consolidates-dash-outperforms-in-quiet-crypto-session-crypto-markets-today",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/de2b495234faf5c571cd987935b93f5775c2b57e-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
     {
       "source": "coindesk.com",
       "title": "Crypto developer protections don't belong in market structure bill, senators say",
@@ -14,10 +8,16 @@
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/1af33719e418824cfaeb71617a78157396eff819-5245x3497.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
+      "source": "bbc.com",
+      "title": "Why Croatia's capital wants to hold Europe's best Christmas market",
+      "url": "https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a02c/live/65887bf0-d9ca-11f0-b67b-690eb873de1b.jpg"
+    },
+    {
       "source": "coindesk.com",
-      "title": "Jefferies strategist Christopher Wood drops bitcoin for gold on quantum computing concern",
-      "url": "https://www.coindesk.com/markets/2026/01/16/jefferies-strategist-christopher-wood-swaps-bitcoin-for-gold-on-quantum-computing-concern",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/20906a093fa5e5fa5736ae49dcd7c986f3491d30-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Coinbase refutes rumors of White House's threat to pull support for crypto bill",
+      "url": "https://www.coindesk.com/policy/2026/01/17/coinbase-refutes-rumors-of-white-house-s-threat-to-pull-support-for-crypto-bill",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f3568ba988df704ac0fc97e2593677bdcbf178e-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
