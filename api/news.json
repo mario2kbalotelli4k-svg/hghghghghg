@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-18T01:07:56.355306Z",
+  "updated_at": "2026-01-19T01:07:21.656573Z",
   "articles": [
     {
       "source": "coindesk.com",
@@ -14,10 +14,10 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a02c/live/65887bf0-d9ca-11f0-b67b-690eb873de1b.jpg"
     },
     {
-      "source": "coindesk.com",
-      "title": "Coinbase refutes rumors of White House's threat to pull support for crypto bill",
-      "url": "https://www.coindesk.com/policy/2026/01/17/coinbase-refutes-rumors-of-white-house-s-threat-to-pull-support-for-crypto-bill",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f3568ba988df704ac0fc97e2593677bdcbf178e-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.com",
+      "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
+      "url": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/039e/live/9ebb4470-f496-11f0-a422-4ba8a094a8fa.jpg"
     }
   ]
 }
