@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-01-30T01:12:36.200481Z",
+  "updated_at": "2026-01-31T01:09:43.209581Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "Gold in 'extreme greed' sentiment as it adds entire bitcoin market cap in one day",
-      "url": "https://www.coindesk.com/markets/2026/01/29/gold-in-extreme-greed-sentiment-as-it-adds-the-entire-bitcoin-market-cap-in-one-day",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cf236124298c64926d37601e39c5a05a5c54ffd0-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Anatomy of bitcoin's plunge this week: The dollar's bottom was BTC's top",
+      "url": "https://www.coindesk.com/markets/2026/01/30/anatomy-of-bitcoin-s-plunge-this-week-the-dollar-s-bottom-was-btc-s-top",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ba7375660e116706255bf634db0215592c40b6d0-2562x1988.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin, ether extend declines as leverage unwind accelerates: Crypto Markets Today",
+      "url": "https://www.coindesk.com/markets/2026/01/30/bitcoin-ether-extend-declines-as-leverage-unwind-accelerates-crypto-markets-today",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/af0566a2ed6670673a190b8ff3a72c11b5ab0c81-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "bbc.com",
       "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
       "url": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5715/live/8b384cd0-fd02-11f0-9200-e148478a5756.jpg"
-    },
-    {
-      "source": "bbc.com",
-      "title": "Why the US dollar hit a four-year low and could fall further",
-      "url": "https://www.bbc.com/news/articles/czjg2rlyvyzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae4d/live/70dd1110-fd37-11f0-85f9-892da4472ee9.jpg"
     }
   ]
 }
