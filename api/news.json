@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-01-31T01:09:43.209581Z",
+  "updated_at": "2026-02-01T01:25:04.621804Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Founder of OKX, one of the biggest crypto exchanges, blames bitcoin’s October crash on Binance",
+      "url": "https://www.coindesk.com/markets/2026/01/31/founder-of-okx-one-of-the-biggest-crypto-exchanges-blames-bitcoin-s-october-crash-on-binance",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fb1024f25681eb329ee079a15e523d8e6b6520c3-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Anatomy of bitcoin's plunge this week: The dollar's bottom was BTC's top",
       "url": "https://www.coindesk.com/markets/2026/01/30/anatomy-of-bitcoin-s-plunge-this-week-the-dollar-s-bottom-was-btc-s-top",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/ba7375660e116706255bf634db0215592c40b6d0-2562x1988.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Bitcoin, ether extend declines as leverage unwind accelerates: Crypto Markets Today",
-      "url": "https://www.coindesk.com/markets/2026/01/30/bitcoin-ether-extend-declines-as-leverage-unwind-accelerates-crypto-markets-today",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/af0566a2ed6670673a190b8ff3a72c11b5ab0c81-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "bbc.com",
