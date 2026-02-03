@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-02-02T01:16:34.564480Z",
+  "updated_at": "2026-02-03T01:17:21.199000Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Crypto bear market is nearing end, with $60K as key bitcoin floor, Compass Point analysts say",
+      "url": "https://www.coindesk.com/markets/2026/02/02/crypto-bear-market-is-nearing-end-with-usd60k-as-key-bitcoin-floor-compass-point-analysts-say",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/82accbbe4835b7b1f7a7d0889857328d89207f96-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Weekend selloff wipes out $290 billion before bitcoin steadies: Crypto Markets Today",
+      "url": "https://www.coindesk.com/markets/2026/02/02/weekend-selloff-wipes-out-usd290-billion-before-bitcoin-steadies-crypto-markets-today",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/78cd770b3be0f39de16936d1aa7a7a30bbac7558-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "bbc.com",
       "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
       "url": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5715/live/8b384cd0-fd02-11f0-9200-e148478a5756.jpg"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Crypto’s $19 billion '10/10' nightmare: Why everyone is blaming Binance for the bitcoin crash that won't end",
-      "url": "https://www.coindesk.com/markets/2026/02/01/crypto-s-usd19-billion-10-10-nightmare-why-everyone-is-blaming-binance-for-the-bitcoin-crash-that-won-t-end",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7fbb8826aec1d65a8179a17cd1a5cab330c9bd7a-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "How instant gratification is sucking the air out of the bitcoin market",
-      "url": "https://www.coindesk.com/markets/2026/02/01/how-instant-gratification-is-sucking-the-air-out-of-the-bitcoin-market",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/da862fb7916d4885618625dfdbe53136329965d3-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
