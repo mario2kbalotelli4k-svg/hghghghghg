@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-02-03T01:17:21.199000Z",
+  "updated_at": "2026-02-04T01:12:17.229204Z",
   "articles": [
-    {
-      "source": "coindesk.com",
-      "title": "Crypto bear market is nearing end, with $60K as key bitcoin floor, Compass Point analysts say",
-      "url": "https://www.coindesk.com/markets/2026/02/02/crypto-bear-market-is-nearing-end-with-usd60k-as-key-bitcoin-floor-compass-point-analysts-say",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/82accbbe4835b7b1f7a7d0889857328d89207f96-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Weekend selloff wipes out $290 billion before bitcoin steadies: Crypto Markets Today",
-      "url": "https://www.coindesk.com/markets/2026/02/02/weekend-selloff-wipes-out-usd290-billion-before-bitcoin-steadies-crypto-markets-today",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/78cd770b3be0f39de16936d1aa7a7a30bbac7558-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
     {
       "source": "bbc.com",
       "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
       "url": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5715/live/8b384cd0-fd02-11f0-9200-e148478a5756.jpg"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "‘Big Short’ investor Michael Burry warns bitcoin plunge could trigger $1 billion gold, silver sell-off",
+      "url": "https://www.coindesk.com/markets/2026/02/03/the-big-short-investor-michael-burry-warns-bitcoin-plunge-could-trigger-usd1b-gold-silver-sell-off",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e6e7c351cd50744cc1385ea08d2216c75a22b3f7-3000x2042.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "U.S. Treasury probes crypto exchanges over Iran sanctions evasion, TRM Labs says",
+      "url": "https://www.coindesk.com/policy/2026/02/03/u-s-treasury-probes-crypto-exchanges-over-iran-sanctions-evasion-trm-labs-says",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f7c313a3d4b70e8fc9983bbda7972c5a42b49289-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
