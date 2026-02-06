@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-05T01:13:36.118560Z",
+  "updated_at": "2026-02-06T01:12:22.799239Z",
   "articles": [
     {
       "source": "bbc.com",
@@ -9,15 +9,15 @@
     },
     {
       "source": "coindesk.com",
-      "title": "Crypto Long & Short: Europe’s role in the next wave of tokenisation",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/02/04/europe-s-role-in-the-next-wave-of-tokenisation",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cfbfac7825e59ce69d7383ebe061c62bd82b2a6c-4707x3138.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Bitcoin ETFs barely flinch as BTC slides 40%, Bloomberg’s Eric Balchunas says",
+      "url": "https://www.coindesk.com/markets/2026/02/05/bitcoin-etfs-barely-flinch-as-btc-slides-40-bloomberg-s-eric-balchunas-says",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/1175de37dd66e44e2547ddecfa3c92c9c0130067-1804x1018.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "source": "coindesk.com",
-      "title": "Opinion raises $20 million as prediction markets draw capital in a weak crypto market",
-      "url": "https://www.coindesk.com/business/2026/02/04/opinion-raises-usd20-million-as-prediction-markets-draw-capital-in-a-weak-crypto-market",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e8c82ae61f612938f328059badeed4de63c688a0-1280x720.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.com",
+      "title": "Bitcoin falls to lowest level since Trump took office",
+      "url": "https://www.bbc.com/news/articles/cy09x24q0pro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e595/live/265e49c0-9fc2-11ef-b191-89cf3826c79b.jpg"
     }
   ]
 }
