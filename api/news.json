@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-07T01:11:28.822767Z",
+  "updated_at": "2026-02-08T01:48:44.698801Z",
   "articles": [
     {
       "source": "coindesk.com",
@@ -8,16 +8,16 @@
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/a67b233975ce2aa1fe5f0f08988cc6ba7796bb0c-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "source": "coindesk.com",
-      "title": "Crypto market brightens after selloff that sent bitcoin to lowest since October 2024",
-      "url": "https://www.coindesk.com/markets/2026/02/06/crypto-markets-rebound-from-selloff-that-sent-bitcoin-to-lowest-since-october-2024",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c3ac40e216e0a2276cfec64adeb74b4e08399884-1919x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
       "source": "bbc.com",
       "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
       "url": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5715/live/8b384cd0-fd02-11f0-9200-e148478a5756.jpg"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Crypto's eligibility for 401k retirement funds is under fire after brutal market rout wipes out $2 trillion",
+      "url": "https://www.coindesk.com/business/2026/02/06/crypto-s-eligibility-for-401k-retirement-is-under-fire-after-brutal-market-rout-wipes-out-usd2-trillion",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d3eb363e7caac0592410239b1b77e5b24dd0c96-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
