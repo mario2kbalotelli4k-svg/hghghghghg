@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-02-09T01:19:11.114859Z",
+  "updated_at": "2026-02-10T01:27:16.968284Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "Bitcoin crashed to $55,000 on Bithumb after exchange accidentally airdropped users 2,000 BTC",
-      "url": "https://www.coindesk.com/business/2026/02/06/bitcoin-crashed-to-usd55-000-on-bithumb-after-exchange-accidentally-airdropped-users-2-000-btc",
+      "title": "Bitcoin miner Cango sold $305 million of BTC during market slump to fund AI shift",
+      "url": "https://www.coindesk.com/markets/2026/02/09/bitcoin-miner-cango-sells-usd305-million-of-btc-during-market-slump-to-fund-ai-shift",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a6fce8efe0570bdf6dccecadb5072b55ba54a7ac-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Bithumb $44 billion bitcoin blunder puts South Korea regulators on alert over local crypto exchanges",
+      "url": "https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/a67b233975ce2aa1fe5f0f08988cc6ba7796bb0c-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
@@ -12,12 +18,6 @@
       "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
       "url": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5715/live/8b384cd0-fd02-11f0-9200-e148478a5756.jpg"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Crypto's eligibility for 401k retirement funds is under fire after brutal market rout wipes out $2 trillion",
-      "url": "https://www.coindesk.com/business/2026/02/06/crypto-s-eligibility-for-401k-retirement-is-under-fire-after-brutal-market-rout-wipes-out-usd2-trillion",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d3eb363e7caac0592410239b1b77e5b24dd0c96-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
