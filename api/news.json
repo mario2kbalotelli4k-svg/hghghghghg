@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-02-10T01:27:16.968284Z",
+  "updated_at": "2026-02-11T01:25:04.718364Z",
   "articles": [
-    {
-      "source": "coindesk.com",
-      "title": "Bitcoin miner Cango sold $305 million of BTC during market slump to fund AI shift",
-      "url": "https://www.coindesk.com/markets/2026/02/09/bitcoin-miner-cango-sells-usd305-million-of-btc-during-market-slump-to-fund-ai-shift",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a6fce8efe0570bdf6dccecadb5072b55ba54a7ac-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Bithumb $44 billion bitcoin blunder puts South Korea regulators on alert over local crypto exchanges",
-      "url": "https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a67b233975ce2aa1fe5f0f08988cc6ba7796bb0c-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
     {
       "source": "bbc.com",
       "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
       "url": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5715/live/8b384cd0-fd02-11f0-9200-e148478a5756.jpg"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Crypto exchange Kraken fires chief financial officer ahead of long-awaited IPO",
+      "url": "https://www.coindesk.com/business/2026/02/10/crypto-exchange-kraken-fires-chief-financial-officer-ahead-of-long-awaited-ipo",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd2d0b79800a043d56afca351c7ef08d10141715-3840x2160.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin a tech trade for now, not digital gold, says Grayscale",
+      "url": "https://www.coindesk.com/markets/2026/02/10/bitcoin-a-tech-trade-for-now-not-digital-gold-says-grayscale",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0627380971eb192cf86e7c27e83b43a3c1ce867-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
