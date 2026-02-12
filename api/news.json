@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11T01:25:04.718364Z",
+  "updated_at": "2026-02-12T01:18:02.613872Z",
   "articles": [
     {
       "source": "bbc.com",
@@ -9,15 +9,15 @@
     },
     {
       "source": "coindesk.com",
-      "title": "Crypto exchange Kraken fires chief financial officer ahead of long-awaited IPO",
-      "url": "https://www.coindesk.com/business/2026/02/10/crypto-exchange-kraken-fires-chief-financial-officer-ahead-of-long-awaited-ipo",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd2d0b79800a043d56afca351c7ef08d10141715-3840x2160.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Cryptos crumble, bitcoin falls through $66,000, as Friday's bounce fades",
+      "url": "https://www.coindesk.com/markets/2026/02/11/cryptos-crumble-bitcoin-falls-through-usd66-000-as-friday-s-bounce-fades",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/921ef7438c2b580c188b570bbb2e310994b96c34-3840x2160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "source": "coindesk.com",
-      "title": "Bitcoin a tech trade for now, not digital gold, says Grayscale",
-      "url": "https://www.coindesk.com/markets/2026/02/10/bitcoin-a-tech-trade-for-now-not-digital-gold-says-grayscale",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0627380971eb192cf86e7c27e83b43a3c1ce867-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.com",
+      "title": "Bitcoin falls to lowest level since Trump took office",
+      "url": "https://www.bbc.com/news/articles/cy09x24q0pro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e595/live/265e49c0-9fc2-11ef-b191-89cf3826c79b.jpg"
     }
   ]
 }
