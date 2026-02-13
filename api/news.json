@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-02-12T01:18:02.613872Z",
+  "updated_at": "2026-02-13T01:21:28.133904Z",
   "articles": [
     {
-      "source": "bbc.com",
-      "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
-      "url": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5715/live/8b384cd0-fd02-11f0-9200-e148478a5756.jpg"
+      "source": "coindesk.com",
+      "title": "Bitcoin sinks below $66,000 as crypto prices follow U.S. stocks lower",
+      "url": "https://www.coindesk.com/markets/2026/02/12/bitcoin-sinks-below-usd67-000-with-crypto-prices-following-u-s-stocks-lower",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/92bd4eed5584f5599371a16db5561e49f3a2aa38-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "Cryptos crumble, bitcoin falls through $66,000, as Friday's bounce fades",
-      "url": "https://www.coindesk.com/markets/2026/02/11/cryptos-crumble-bitcoin-falls-through-usd66-000-as-friday-s-bounce-fades",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/921ef7438c2b580c188b570bbb2e310994b96c34-3840x2160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Crypto for Advisors: The digital assets exchange-traded product landscape",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/02/11/crypto-for-advisors-the-digital-assets-exchange-traded-product-landscape",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/989ca7a7c5c25aa4c28ede7f5b03fc3fee412755-4000x3000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "source": "bbc.com",
-      "title": "Bitcoin falls to lowest level since Trump took office",
-      "url": "https://www.bbc.com/news/articles/cy09x24q0pro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e595/live/265e49c0-9fc2-11ef-b191-89cf3826c79b.jpg"
+      "source": "coindesk.com",
+      "title": "Bitcoin layer-2 builders pitch BTCFi as the next institutional unlock",
+      "url": "https://www.coindesk.com/business/2026/02/12/bitcoin-layer-2-builders-pitch-btcfi-as-the-next-institutional-unlock",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5c13b6451072a90bf2acd9abe3f5d5c8bb6d3a0f-7787x4380.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
