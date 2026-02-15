@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-02-14T01:13:56.799577Z",
+  "updated_at": "2026-02-15T01:20:44.460074Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin claws back to $70,000 on cooling inflation after $8.7 billion wipeout",
+      "url": "https://www.coindesk.com/markets/2026/02/14/bitcoin-claws-back-to-usd70-000-on-cooling-inflation-after-usd8-7-billion-wipeout",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e183c12b5e1dbaf0e0175a58c3a9425adb7b3de5-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Crypto market wobbles as investors ignore good news, look for ‘exit ramp’",
@@ -12,12 +18,6 @@
       "title": "Bitcoin, ether little changed before U.S. inflation report",
       "url": "https://www.coindesk.com/markets/2026/02/13/bitcoin-ether-little-changed-before-u-s-inflation-report",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/d687b13ec3ef7b92cad7c07ff5ad6c8a603ecb40-3999x2666.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "PGI Global CEO handed 20-year sentence for $200 million bitcoin, forex Ponzi scheme",
-      "url": "https://www.coindesk.com/policy/2026/02/13/pgi-global-ceo-gets-20-years-sentence-over-usd200-million-bitcoin-ponzi-scheme",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/af6aa6a61b93c9ee04ccf52339b7f30d658a4d09-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
