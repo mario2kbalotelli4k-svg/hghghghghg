@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-02-20T01:14:17.147296Z",
+  "updated_at": "2026-02-21T01:12:03.304617Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "CoinDesk 20 Performance Update: Bitcoin (BTC) Drops 0.3% as All Assets Decline",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/02/19/coindesk-20-performance-update-bitcoin-btc-drops-0-3-as-all-assets-decline",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/1bce43ce0c7c24106caa11af12d9103073744d03-480x360.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Goldman Sachs, Franklin Templeton, and Nicki Minaj: Inside Trump’s surreal Mar-a-Lago crypto summit",
+      "url": "https://www.coindesk.com/business/2026/02/20/goldman-sachs-franklin-templeton-and-nicki-minaj-inside-trump-s-surreal-mar-a-lago-crypto-summit",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a6462c7e6b84bc721cb6296d10cf50ccf716cbb5-1600x1067.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "bbc.com",
+      "title": "New Year's sport supplement buying adds to January retail sales surge",
+      "url": "https://www.bbc.com/news/articles/c78x7jwjg4no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc24/live/34345880-0e59-11f1-9dfd-b903070cb164.jpg"
     },
     {
       "source": "coindesk.com",
-      "title": "Crypto markets feel the chill, Base, ether.fi reorganize layer-2 landscape",
-      "url": "https://www.coindesk.com/daybook-us/2026/02/19/crypto-markets-feel-the-chill-base-ether-fi-reorganize-layer-2-landscape",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6040f23e8669b5cd6d0b106adb6d837419fa79b-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Ledn raises $188 million with first bitcoin backed bond sale in asset backed market",
-      "url": "https://www.coindesk.com/markets/2026/02/19/ledn-raises-usd188m-with-first-bitcoin-backed-bond-sale-in-asset-backed-market",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ce6e5878a3bba05bcb92f58c5d32dad187180ea3-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Bitcoin nears $68,000, gold jumps as U.S.-Iran tensions return",
+      "url": "https://www.coindesk.com/markets/2026/02/20/bitcoin-nears-usd68-000-gold-jumps-as-us-iran-tensions-return",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3fefd4274e66ebe6fa9b269e9039d7f0e3e7896d-5000x3111.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
