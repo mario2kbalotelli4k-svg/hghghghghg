@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-02-21T01:12:03.304617Z",
+  "updated_at": "2026-02-22T01:17:42.830044Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin echoes 'late 2022' bear market bottom, K33 says",
+      "url": "https://www.coindesk.com/markets/2026/02/21/bitcoin-echoes-late-2022-bear-market-bottom-k33-says",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/de7a9518cddb59a1c88001dff7cf60e2ae2acebe-1918x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Goldman Sachs, Franklin Templeton, and Nicki Minaj: Inside Trump’s surreal Mar-a-Lago crypto summit",
@@ -8,16 +14,10 @@
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/a6462c7e6b84bc721cb6296d10cf50ccf716cbb5-1600x1067.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "source": "bbc.com",
-      "title": "New Year's sport supplement buying adds to January retail sales surge",
-      "url": "https://www.bbc.com/news/articles/c78x7jwjg4no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc24/live/34345880-0e59-11f1-9dfd-b903070cb164.jpg"
-    },
-    {
       "source": "coindesk.com",
-      "title": "Bitcoin nears $68,000, gold jumps as U.S.-Iran tensions return",
-      "url": "https://www.coindesk.com/markets/2026/02/20/bitcoin-nears-usd68-000-gold-jumps-as-us-iran-tensions-return",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3fefd4274e66ebe6fa9b269e9039d7f0e3e7896d-5000x3111.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Bitcoin's weekend selloff may be over with CME's 24/7 crypto trading move",
+      "url": "https://www.coindesk.com/markets/2026/02/21/bitcoin-s-weekend-selloff-may-be-over-with-cme-s-24-7-crypto-trading-move",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b119fde813835a73b12fcb4cb0e3a811abe61149-1500x1021.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
