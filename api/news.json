@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-03-15T01:25:46.250260Z",
+  "updated_at": "2026-03-16T01:25:31.551236Z",
   "articles": [
+    {
+      "source": "bbc.com",
+      "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
+      "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c41/live/70cd9010-1f0a-11f1-801d-ed3cff6bf876.jpg"
+    },
     {
       "source": "coindesk.com",
       "title": "Bitcoin quickly drops 3.5% as fresh Iran escalation short-circuits crypto rally",
@@ -9,15 +15,9 @@
     },
     {
       "source": "coindesk.com",
-      "title": "Crypto’s multi-million F1 sponsorship under fire as Middle East war hits region's biggest events",
-      "url": "https://www.coindesk.com/business/2026/03/14/crypto-s-multi-million-f1-sponsorship-under-fire-as-middle-east-war-hits-region-s-biggest-events",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f0686389140cb53347765f89efe658993ddcdfb1-4000x2662.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Ethereum Foundation sells 5,000 ether to Tom Lee's BitMine in $10.2 million deal",
-      "url": "https://www.coindesk.com/business/2026/03/14/ethereum-foundation-sells-5-000-ether-to-tom-lee-s-bitmine-in-usd10-2-million-deal",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/dc4375e920f0e20f9d195c6ffed2018a90c2a6af-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "The SEC and CFTC join hands: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/03/15/the-sec-and-cftc-join-hands-state-of-crypto",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/83161385f00b72c82211a614ca7fc202d4fb2c75-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
