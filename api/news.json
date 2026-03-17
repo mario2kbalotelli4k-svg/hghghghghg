@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-03-16T01:25:31.551236Z",
+  "updated_at": "2026-03-17T01:16:31.615690Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "OpenSea delays highly anticipated token launch, citing challenging crypto market conditions",
+      "url": "https://www.coindesk.com/business/2026/03/16/opensea-delays-highly-anticipated-token-launch-citing-challenging-crypto-market-conditions",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/35cdc41cf0c4d49c2cdb92b2049bcfafc1f36b86-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin outperforms gold and stocks in global turmoil as ETFs and Strategy accumulate",
+      "url": "https://www.coindesk.com/markets/2026/03/16/bitcoin-outperforms-gold-and-stocks-in-global-turmoil-as-etfs-and-strategy-accumulate",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c577b38f229e9d3708d310ac5946ea8fae71162e-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "bbc.com",
       "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
       "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c41/live/70cd9010-1f0a-11f1-801d-ed3cff6bf876.jpg"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Bitcoin quickly drops 3.5% as fresh Iran escalation short-circuits crypto rally",
-      "url": "https://www.coindesk.com/markets/2026/03/13/bitcoin-quickly-drops-3-5-as-fresh-iran-escalation-short-circuits-crypto-rally",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/553863c8594bfb921b8a9d32bb28ca81c9361f24-2020x1186.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "The SEC and CFTC join hands: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/03/15/the-sec-and-cftc-join-hands-state-of-crypto",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/83161385f00b72c82211a614ca7fc202d4fb2c75-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
