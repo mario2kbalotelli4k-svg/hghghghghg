@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-03-17T01:16:31.615690Z",
+  "updated_at": "2026-03-18T01:20:07.745213Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "OpenSea delays highly anticipated token launch, citing challenging crypto market conditions",
-      "url": "https://www.coindesk.com/business/2026/03/16/opensea-delays-highly-anticipated-token-launch-citing-challenging-crypto-market-conditions",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/35cdc41cf0c4d49c2cdb92b2049bcfafc1f36b86-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Vietnam pushes local crypto exchanges as Hanoi moves to block offshore trading: Reuters",
+      "url": "https://www.coindesk.com/policy/2026/03/17/vietnam-pushes-local-crypto-exchanges-as-hanoi-moves-to-block-offshore-trading-reuters",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e6efdc3c14cfbc04d11ff5c1f248f2b87afdc852-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "Bitcoin outperforms gold and stocks in global turmoil as ETFs and Strategy accumulate",
-      "url": "https://www.coindesk.com/markets/2026/03/16/bitcoin-outperforms-gold-and-stocks-in-global-turmoil-as-etfs-and-strategy-accumulate",
+      "title": "Citigroup cuts BTC and ETH targets as U.S. crypto legislation stalls",
+      "url": "https://www.coindesk.com/markets/2026/03/17/citigroup-cuts-btc-and-eth-targets-as-u-s-crypto-legislation-stalls",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/c577b38f229e9d3708d310ac5946ea8fae71162e-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "source": "bbc.com",
-      "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
-      "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c41/live/70cd9010-1f0a-11f1-801d-ed3cff6bf876.jpg"
+      "source": "coindesk.com",
+      "title": "Bitcoin hits a wall at $75,000 while onchain energy markets run hot",
+      "url": "https://www.coindesk.com/daybook-us/2026/03/17/bitcoin-hits-a-wall-at-usd75-000-while-onchain-energy-markets-run-hot",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ccb0a7f8972de23193d198e8aacaf34f5df00b00-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
