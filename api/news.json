@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-03-21T01:11:02.313209Z",
+  "updated_at": "2026-03-22T01:19:37.120403Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Crypto firms cut hundreds of jobs in weeks, blaming weak markets, strong AI",
+      "url": "https://www.coindesk.com/business/2026/03/21/crypto-firms-cut-hundreds-of-jobs-in-weeks-blaming-markets-and-ai-in-equal-measure",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ef1e215addbf6f97cac8666cf5d79b0558bc98a0-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Strategy set for second-biggest bitcoin buying quarter despite BTC price slide",
+      "url": "https://www.coindesk.com/markets/2026/03/21/strategy-set-for-second-biggest-bitcoin-buying-quarter-despite-btc-price-slide",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/09835acb3f82570cfae7ea425a96dc832c8892e6-630x470.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Senators say they've reached compromise on yield to advance crypto market bill",
       "url": "https://www.coindesk.com/policy/2026/03/20/crypto-clarity-act-may-be-cleared-to-move-after-senators-agree-on-stablecoin-yield",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/6358c84c306ac3cf8d25f7f469a1f241604fd222-7999x5335.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Bitcoin's latest fear unlocked as rate hike bets rise and bond markets crumble",
-      "url": "https://www.coindesk.com/markets/2026/03/20/bitcoin-s-latest-fear-unlocked-as-rate-hikes-bets-rise-and-bond-markets-crumble",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a862af90a8d8a931a075184d3659680056847bc0-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Crypto market steadies as derivatives signal caution, macro pressure builds",
-      "url": "https://www.coindesk.com/markets/2026/03/20/crypto-market-steadies-as-derivatives-signal-caution-macro-pressure-builds",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2c1a0623f7bb35f894eaff8c8d97e878386804b9-1919x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
