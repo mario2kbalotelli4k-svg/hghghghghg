@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-03-28T01:17:56.633498Z",
+  "updated_at": "2026-03-29T01:27:28.511230Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Here's how bitcoin, Ethereum and other networks are preparing for the looming quantum threat",
+      "url": "https://www.coindesk.com/tech/2026/03/28/here-s-how-bitcoin-ethereum-and-other-networks-are-preparing-for-the-looming-quantum-threat",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9292fbf8f55ce589ec030c33a429ef4520f5141d-7008x4672.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin miners are becoming AI companies and selling their BTC to fund the transition",
+      "url": "https://www.coindesk.com/markets/2026/03/27/bitcoin-miners-are-becoming-ai-companies-and-selling-their-btc-to-fund-the-transition",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/09c7af12c3ed9c083ddc433486f71cdad7b77bfd-2560x1416.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Morgan Stanley enters bitcoin ETF race with market-leading low fee",
       "url": "https://www.coindesk.com/markets/2026/03/27/morgan-stanley-enters-bitcoin-etf-race-with-market-leading-low-fee",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/b639632f8f6b5b22d1831593c830bec9dd498367-3480x2320.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Crypto stocks battered as Nasdaq enters correction in $17 trillion market rout",
-      "url": "https://www.coindesk.com/markets/2026/03/27/crypto-stocks-battered-as-nasdaq-enters-correction-in-usd17-trillion-market-rout",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3c9d083c5a8899463f2ada24df2f1f3d0afd3345-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Bitcoin macro risks spike as Ukraine messes with Trump's plan to stabilize oil markets",
-      "url": "https://www.coindesk.com/markets/2026/03/27/bitcoin-macro-risks-spike-as-ukraine-throws-a-spanner-in-trump-s-plan-to-stabilize-oil-markets",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ccb0a7f8972de23193d198e8aacaf34f5df00b00-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
