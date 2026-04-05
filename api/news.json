@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-04T01:18:59.381311Z",
+  "updated_at": "2026-04-05T01:28:28.893870Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin tends to outperform gold and stocks after global shocks, Mercado Bitcoin finds",
+      "url": "https://www.coindesk.com/markets/2026/03/30/bitcoin-tends-to-outperform-gold-and-stocks-after-global-shocks-mercado-bitcoin-finds",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/48af8cc044a788e30cbd99c6305fcfa64af2f408-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Five data sources say the same thing about bitcoin market. It's thinning from the inside",
+      "url": "https://www.coindesk.com/markets/2026/04/03/five-data-sources-say-the-same-thing-about-bitcoin-market-it-s-thinning-from-the-inside",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a157306e943dd581a50f1881a075dc427bda6fad-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "CoinDesk 20 performance update: Bitcoin (BTC) trades flat while altcoins rise",
       "url": "https://www.coindesk.com/coindesk-indices/2026/04/03/coindesk-20-performance-update-bitcoin-btc-trades-flat-while-altcoins-rise",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/427d1cfb0dd1f015c32c74d09305d14a9be2ffd8-360x270.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Crypto consolidates as volatility cools and futures markets tilt bearish",
-      "url": "https://www.coindesk.com/markets/2026/04/03/crypto-consolidates-as-volatility-cools-and-futures-markets-tilt-bearish",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a0beb1027f98a2baefcd18e41ae4e6814de7f0bc-2104x1168.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats",
-      "url": "https://www.coindesk.com/markets/2026/04/03/naoris-protocol-s-quantum-resistance-blockchain-goes-live-as-bitcoin-and-ethereum-face-q-day-threats",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/58de25dd1cb2682200c4e10c33ddf7f5368f725f-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
