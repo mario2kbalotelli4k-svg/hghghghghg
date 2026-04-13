@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-12T01:45:50.781163Z",
+  "updated_at": "2026-04-13T01:50:27.572415Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "CFTC Chair Mike Selig argues for agency's 'exclusive regulatory authority' in prediction markets fight: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/04/12/cftc-chair-mike-selig-argues-for-agency-s-exclusive-regulatory-authority-in-prediction-markets-fight-state-of-crypto",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/4fa4a2a8d5048a9e3deb5174673798ba2a1f3b71-4486x2523.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin and other cryptos fall as U.S., Iranian negotiators fail to reach war resolution",
+      "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-and-other-cryptos-fall-as-u-s-iranian-negotiators-fail-to-reach-war-resolution",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/24d76f2d1f67b2839c51e07fb0937c88622a987a-1540x866.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Bitcoin, broader market flat as U.S.-Iran negotiations begin",
       "url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/bf561a642f3be8c46f6333801b0479a2f758219c-1537x865.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "The bitcoin market is splitting in two. Here's who is buying and selling amid the war",
-      "url": "https://www.coindesk.com/markets/2026/04/10/the-bitcoin-market-is-splitting-in-two-here-s-who-is-buying-and-selling-amid-the-war",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/61a9559ef27c28600826f6691b0424ccfd776182-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Bhutan has sold 70% of its bitcoin in 18 months. It may have stopped BTC mining too.",
-      "url": "https://www.coindesk.com/markets/2026/04/11/bhutan-has-sold-70-of-its-bitcoin-in-18-months-it-may-have-stopped-btc-mining-too",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/850c38128aa8b785d3e9dcb693fdf3c390bde105-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
