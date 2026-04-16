@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-15T01:27:20.636131Z",
+  "updated_at": "2026-04-16T01:49:40.543501Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "Goldman Sachs files for bitcoin income ETF in crypto push",
-      "url": "https://www.coindesk.com/business/2026/04/14/goldman-sachs-files-for-bitcoin-income-etf-in-crypto-push",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/66903c353099b75a87c51fc314ab63a82507b979-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Tether adds $70 million in bitcoin to reserves, bringing holdings above 97,000 BTC",
+      "url": "https://www.coindesk.com/business/2026/04/15/tether-adds-usd70-million-in-bitcoin-to-reserves-bringing-holdings-above-97-000-btc",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ce31452188ee40f2e811953807df78fed38b01f-3840x2160.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "Bitcoin's $76,000 breakout fails but a rare signal is hinting at major market bottom",
-      "url": "https://www.coindesk.com/markets/2026/04/14/bitcoin-usd75-000-breakout-fails-but-a-rare-signal-is-hinting-at-major-market-bottom",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/52d3731e43431556386aa2b63b9458c9038cf5c5-2066x1192.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Bitcoin developer Jameson Lopp says it's better to freeze 5.6 million BTC than let hackers have them",
+      "url": "https://www.coindesk.com/business/2026/04/15/bitcoin-developer-jameson-lopp-says-it-s-better-to-freeze-5-6-million-btc-than-let-hackers-have-them",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/1dad10744284176d8dcfd788d5c1fdb507e85488-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "Ethereum Foundation unveils $1M audit subsidy program to boost crypto security and cut costs for builders",
-      "url": "https://www.coindesk.com/tech/2026/04/14/ethereum-foundation-unveils-usd1m-audit-subsidy-program-to-boost-crypto-security-and-cut-costs-for-builders",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Beyond ‘digital gold,’ Iran conflict forces a rethink of the nature of bitcoin",
+      "url": "https://www.coindesk.com/markets/2026/04/15/bitcoin-s-war-rally-is-forcing-a-rethink-beyond-digital-gold",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/80da2f00868990a0c7d6b1977ab9e547140f89a4-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
