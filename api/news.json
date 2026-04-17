@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-16T01:49:40.543501Z",
+  "updated_at": "2026-04-17T01:45:20.293789Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "Tether adds $70 million in bitcoin to reserves, bringing holdings above 97,000 BTC",
-      "url": "https://www.coindesk.com/business/2026/04/15/tether-adds-usd70-million-in-bitcoin-to-reserves-bringing-holdings-above-97-000-btc",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ce31452188ee40f2e811953807df78fed38b01f-3840x2160.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Bitcoin is testing a level that capped its rally in January, CryptoQuant says",
+      "url": "https://www.coindesk.com/markets/2026/04/16/bitcoin-is-testing-a-level-that-capped-its-rally-in-january",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfb4779e9245468a88a2a948bb0e1677ae7e7858-3840x2160.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "Bitcoin developer Jameson Lopp says it's better to freeze 5.6 million BTC than let hackers have them",
-      "url": "https://www.coindesk.com/business/2026/04/15/bitcoin-developer-jameson-lopp-says-it-s-better-to-freeze-5-6-million-btc-than-let-hackers-have-them",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/1dad10744284176d8dcfd788d5c1fdb507e85488-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Bitcoin steady as S&P 500 hits record, but options market isn't buying the peace trade",
+      "url": "https://www.coindesk.com/markets/2026/04/16/bitcoin-steady-as-s-and-p-500-hits-record-but-options-market-isn-t-buying-the-peace-trade",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7a2f0cff2adf313c3458c0723d5764390e9efb43-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "source": "coindesk.com",
-      "title": "Beyond ‘digital gold,’ Iran conflict forces a rethink of the nature of bitcoin",
-      "url": "https://www.coindesk.com/markets/2026/04/15/bitcoin-s-war-rally-is-forcing-a-rethink-beyond-digital-gold",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/80da2f00868990a0c7d6b1977ab9e547140f89a4-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.com",
+      "title": "Rising value of Pokémon cards sparks smash and grab crime spree",
+      "url": "https://www.bbc.com/news/articles/c4gvvnpl5kno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb3d/live/0c321b70-39aa-11f1-ba5b-c578881f2eba.jpg"
     }
   ]
 }
