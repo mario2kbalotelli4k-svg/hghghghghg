@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-18T01:24:45.969741Z",
+  "updated_at": "2026-04-19T01:48:56.235277Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Zondacrypto under fire as Poland's prime minister links exchange to legislative interference",
+      "url": "https://www.coindesk.com/business/2026/04/18/zondacrypto-under-fire-as-poland-s-prime-minister-links-exchange-to-legislative-interference",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fac8e66ee0cef664e189ed56170a5a95737c7f37-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin 'plebs eat first' mining pool Parasite finds its second BTC block",
+      "url": "https://www.coindesk.com/tech/2026/04/18/bitcoin-plebs-eat-first-mining-pool-parasite-finds-its-second-btc-block",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6e1749f04a0187af2f1d76a17a98a67944f6cb4-1000x667.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Beaten-down digital asset treasury names lead crypto stock surge as bitcoin hits $78,000",
       "url": "https://www.coindesk.com/markets/2026/04/17/beaten-down-digital-asset-treasury-names-lead-crypto-stock-surge-as-bitcoin-hits-usd78-000",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/6734f5e25417522f547ed835a9b3b0164a252def-2100x1156.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Every bitcoin bear market bottom since 2015 was called by a simple indicator. It still hasn't flashed",
-      "url": "https://www.coindesk.com/markets/2026/04/17/this-simple-indicator-has-called-every-bottom-since-2015-it-hasn-t-triggered-yet",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d51acd29ecdece6e0c97c7c7b878f0e87372580-1920x1281.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "bbc.com",
-      "title": "Mortgage rates show signs of falling after Iran war peak",
-      "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27de/live/fa2d1d40-3a3e-11f1-826b-272fcb9e69bd.jpg"
     }
   ]
 }
