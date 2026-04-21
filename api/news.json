@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-20T01:50:41.480154Z",
+  "updated_at": "2026-04-21T01:45:58.375161Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "Zondacrypto under fire as Poland's prime minister links exchange to legislative interference",
-      "url": "https://www.coindesk.com/business/2026/04/18/zondacrypto-under-fire-as-poland-s-prime-minister-links-exchange-to-legislative-interference",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fac8e66ee0cef664e189ed56170a5a95737c7f37-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "U.S. crypto adoption is rebounding, bitcoin still dominates, Deutsche Bank says",
+      "url": "https://www.coindesk.com/markets/2026/04/20/u-s-crypto-adoption-is-rebounding-bitcoin-still-dominates-deutsche-bank-says",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2e6ebd42c43e90cdd701eefeb607a0dff7f8d82-2560x1785.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "bbc.com",
+      "title": "Are insider traders making millions from the Iran war?",
+      "url": "https://www.bbc.com/news/videos/cwyveyl4ez7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7fc/live/1efa0740-3d01-11f1-9d5c-8ba507d7dbde.jpg"
     },
     {
       "source": "coindesk.com",
-      "title": "Bitcoin 'plebs eat first' mining pool Parasite finds its second BTC block",
-      "url": "https://www.coindesk.com/tech/2026/04/18/bitcoin-plebs-eat-first-mining-pool-parasite-finds-its-second-btc-block",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6e1749f04a0187af2f1d76a17a98a67944f6cb4-1000x667.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Hack at Vercel sends crypto developers scrambling to lock down API keys",
-      "url": "https://www.coindesk.com/tech/2026/04/20/hack-at-vercel-sends-crypto-developers-scrambling-to-lock-down-api-keys",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e0794b53fab4b04d9e3fdbc0f3d1a70cdf36125-1920x1283.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "North Korea’s crypto heist playbook is expanding and DeFi keeps getting hit",
+      "url": "https://www.coindesk.com/tech/2026/04/20/north-korea-s-crypto-heist-playbook-is-expanding-and-defi-keeps-getting-hit",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c680f66195c34bc3c9fd0674baef5211b8a010aa-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
