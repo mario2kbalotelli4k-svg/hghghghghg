@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-29T02:04:19.082531Z",
+  "updated_at": "2026-04-30T02:03:44.168414Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "Paul Tudor Jones calls bitcoin the 'best inflation hedge,' warns of overvalued stocks",
-      "url": "https://www.coindesk.com/markets/2026/04/28/paul-tudor-jones-calls-bitcoin-the-best-inflation-hedge-warns-of-overvalued-stocks",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5117f77adbefabbf673117e388511dbe3d01618-3000x1688.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "The AI-crypto disconnect: Why Pantera’s CEO thinks institutions are missing the boat on bitcoin",
+      "url": "https://www.coindesk.com/markets/2026/04/29/ai-stocks-are-overheated-and-crypto-is-incredibly-cheap-pantera-ceo-dan-morehead-says",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b12adc92848749ad91f327cac58b8d050ee62343-2981x1677.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "Polymarket reportedly seeking CFTC approval to reopen main exchange to U.S. traders",
-      "url": "https://www.coindesk.com/policy/2026/04/28/polymarket-seeks-cftc-approval-to-reopen-main-exchange-to-u-s-traders",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7470bda828c58c1e774d5217a5826d869323e2d0-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Big Tech's multi-billion dollar AI bets are still on track as Mag 7 giants report earnings",
+      "url": "https://www.coindesk.com/markets/2026/04/29/big-tech-s-multi-billion-dollar-ai-bets-are-still-on-track-as-mag-7-giants-report-earnings",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a72fb22f10a7175780a35b5b8c07e675febdaa8-4056x2280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "source": "coindesk.com",
-      "title": "'Crypto Godfather' says bitcoin has not reached its bottom and a new all-time high is off the table for 2026",
-      "url": "https://www.coindesk.com/markets/2026/04/28/crypto-godfather-says-bitcoin-has-not-reached-its-bottom-and-a-new-all-time-high-is-off-the-table-for-2026",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b59ad3cb1779d5920284c3d24b1ea5055834e985-2048x1366.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.com",
+      "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
+      "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd7/live/ddeb2720-43ea-11f1-9113-1988573e8ff7.jpg"
     }
   ]
 }
