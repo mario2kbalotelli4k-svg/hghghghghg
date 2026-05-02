@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-01T02:07:52.881244Z",
+  "updated_at": "2026-05-02T01:54:13.053589Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Institutional demand to drive bitcoin market cap to $16 trillion by 2030: Ark Invest",
+      "url": "https://www.coindesk.com/markets/2026/05/01/institutional-demand-to-drive-bitcoin-market-cap-to-usd16-trillion-by-2030-ark-invest",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ccf18504f2934569339f68665f855f679f37378-4312x2426.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "SBI Holdings eyes stake in crypto exchange Bitbank to build digital asset powerhouse",
+      "url": "https://www.coindesk.com/business/2026/05/01/sbi-holdings-continues-its-crypto-expansion-with-plans-for-a-stake-in-bitbank",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/25090ff126224815eb4859930f8912dbba7ec186-7952x5304.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Polymarket taps Chainalysis to bring Wall Street-level oversight to crypto prediction markets",
       "url": "https://www.coindesk.com/business/2026/04/30/polymarket-taps-chainalysis-to-bring-wall-street-level-oversight-to-crypto-prediction-markets",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/1336be5f04368968b919876af2286e534602b7ac-3803x2139.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "U.S. senators won't be weighing in on prediction markets bets after banning themselves",
-      "url": "https://www.coindesk.com/policy/2026/04/30/u-s-senators-won-t-be-weighing-in-on-prediction-markets-bets-after-banning-themselves",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2a63cbba798f75fd496254c5003f22b67d1a560-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "From Cathie Wood to Cantor Fitzgerald, the big money is betting that Robinhood’s crypto slump is just a temporary speed bump",
-      "url": "https://www.coindesk.com/markets/2026/04/30/from-cathie-wood-to-cantor-fitzgerald-the-big-money-is-betting-that-robinhood-s-crypto-slump-is-just-a-temporary-speed-bump",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/04dcac29907c5f042fa5216cd5e76b91a57d6d03-1440x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
