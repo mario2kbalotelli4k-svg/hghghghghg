@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-14T02:14:22.983998Z",
+  "updated_at": "2026-05-15T02:12:11.584529Z",
   "articles": [
     {
-      "source": "coindesk.com",
-      "title": "Crypto Long & Short: Bitcoin vs. gold: 26% relative undervaluation",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/05/13/crypto-long-and-short-bitcoin-vs-gold-26-relative-undervaluation",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/8daa6365814ead8fb4770fb5480e82e664612718-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.com",
+      "title": "Inside the secretive and lucrative world of orchid breeding",
+      "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52a4/live/047114b0-3fbb-11f1-b55d-0f258dce1735.jpg"
     },
     {
-      "source": "coindesk.com",
-      "title": "Live markets: Bitcoin dips below $80,000 as producer price inflation surges to 6%",
-      "url": "https://www.coindesk.com/markets/2026/05/13/live-markets-bitcoin-dips-below-usd80-000-as-producer-price-inflation-surges-to-6",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d687b13ec3ef7b92cad7c07ff5ad6c8a603ecb40-3999x2666.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.com",
+      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
+      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b91/live/a4434bd0-4a32-11f1-a70d-c72ff4101914.jpg"
     },
     {
-      "source": "coindesk.com",
-      "title": "Crypto wallet provider Ledger puts U.S. IPO plans on hold due to market conditions",
-      "url": "https://www.coindesk.com/business/2026/05/13/crypto-wallet-provider-ledger-puts-u-s-ipo-plans-on-hold-due-to-market-conditions",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7791428a89c2740397aa6789f3e5877d0c1a1a39-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.com",
+      "title": "Warning higher Europe air fares 'inevitable' due to Iran war",
+      "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e0a/live/55139140-4f5b-11f1-bd52-e755d604ece4.jpg"
     }
   ]
 }
