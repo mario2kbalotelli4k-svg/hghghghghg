@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-15T02:12:11.584529Z",
+  "updated_at": "2026-05-16T02:04:03.234440Z",
   "articles": [
+    {
+      "source": "bbc.com",
+      "title": "Why Modi wants Indians to buy less gold and take fewer foreign holidays",
+      "url": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e713/live/fe15e590-4e89-11f1-94b7-2b18c5340a3f.jpg"
+    },
+    {
+      "source": "bbc.com",
+      "title": "UK borrowing costs rise and pound falls as leadership drama continues",
+      "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ac1/live/4d841640-5094-11f1-8eb4-7bbd1eefc905.png"
+    },
     {
       "source": "bbc.com",
       "title": "Inside the secretive and lucrative world of orchid breeding",
       "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52a4/live/047114b0-3fbb-11f1-b55d-0f258dce1735.jpg"
-    },
-    {
-      "source": "bbc.com",
-      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
-      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b91/live/a4434bd0-4a32-11f1-a70d-c72ff4101914.jpg"
-    },
-    {
-      "source": "bbc.com",
-      "title": "Warning higher Europe air fares 'inevitable' due to Iran war",
-      "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e0a/live/55139140-4f5b-11f1-bd52-e755d604ece4.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b721/live/63993a20-502e-11f1-8b8c-6d33e1d5abb6.jpg"
     }
   ]
 }
