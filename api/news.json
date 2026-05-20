@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-19T02:28:24.574507Z",
+  "updated_at": "2026-05-20T02:28:35.709261Z",
   "articles": [
+    {
+      "source": "bbc.com",
+      "title": "Supermarkets urged to limit food prices by government",
+      "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba78/live/6c694910-53a3-11f1-962f-7dc94fa2f5d0.jpg"
+    },
     {
       "source": "bbc.com",
       "title": "Faisal Islam: Burnham seeks to calm markets by committing to fiscal rules",
       "url": "https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e83b/live/203c2430-52fa-11f1-a254-dfebbd019402.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047e/live/e08dfec0-534f-11f1-89a3-d1f559421220.jpg"
     },
     {
       "source": "bbc.com",
       "title": "Oil price slumps as Trump says he called off Iran attacks",
       "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8116/live/f1cb53b0-5258-11f1-b1d3-07d4057a6cd2.jpg"
-    },
-    {
-      "source": "bbc.com",
-      "title": "PlayStation Plus to raise monthly subscription fee",
-      "url": "https://www.bbc.com/news/articles/c1e24z2q7xqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/992a/live/255446d0-52e3-11f1-a715-3d459a6fd9cd.jpg"
     }
   ]
 }
