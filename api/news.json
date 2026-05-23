@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-22T02:30:30.397998Z",
+  "updated_at": "2026-05-23T02:07:32.413352Z",
   "articles": [
     {
+      "source": "coindesk.com",
+      "title": "Live markets: Bitcoin heads lower late Friday as Warsh takes over at Fed",
+      "url": "https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/34bd20e89601f70b0aad3c326419ec489ec583ca-8405x5604.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Trump Media moved but 'did not sell' $205 million in bitcoin amid rising losses on crypto bets",
+      "url": "https://www.coindesk.com/markets/2026/05/22/trump-media-moves-another-usd205m-in-bitcoin-as-losses-on-crypto-bet-swell-to-usd455m",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5ea85fd2f228cded77bd633f4ac8a9f9eb4bf0a-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
       "source": "bbc.com",
-      "title": "'Monitoring the situation': why young men are drawn to prediction markets",
+      "title": "'The vibes are young male vibes': Why prediction markets attract a certain type",
       "url": "https://www.bbc.com/news/articles/c93xv27kpwxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b7/live/be15f1f0-5506-11f1-8b8c-6d33e1d5abb6.jpg"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Crypto prediction markets are turning into dangerous national security risks, and Congress wants to ban them",
-      "url": "https://www.coindesk.com/business/2026/05/21/crypto-prediction-markets-are-turning-into-dangerous-national-security-risks-and-congress-wants-to-ban-them",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/fcc8b2fefb296b15e64598dd3b6be45febe3ff57-1820x1024.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Live markets: Yet another Iran peace deal and Mark Cuban sells his bitcoin",
-      "url": "https://www.coindesk.com/markets/2026/05/21/live-markets-bitcoin-s-flat-action-continues-as-spacex-ipo-nvidia-earnings-capture-news-cycle",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/dfff6399ca792fdc7f83e003231219f8be9884e5-8256x5504.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5125/live/12b2c510-55ea-11f1-b682-cf91850925ea.jpg"
     }
   ]
 }
