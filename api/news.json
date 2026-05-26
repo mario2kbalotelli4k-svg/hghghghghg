@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-25T02:34:19.476020Z",
+  "updated_at": "2026-05-26T02:14:51.117438Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin, crypto prices tick up as US-Iran peace deal odds climb",
+      "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-crypto-prices-tick-up-as-us-iran-peace-deal-odds-climb",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/84a461bc77fdc8be2e55a8cfa0a0aa196e958396-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Hyperliquid is emerging as a challenger to traditional exchanges and prediction markets, says FalconX",
+      "url": "https://www.coindesk.com/markets/2026/05/25/hyperliquid-is-emerging-as-a-challenger-to-traditional-exchanges-and-prediction-markets-says-falconx",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7abb923cd3f5036c351144b00a69fb04fe321e58-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report",
       "url": "https://www.coindesk.com/business/2026/05/22/ledn",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5d61433a7938f2a44279c76d6a4b0aa0600e1eb-1920x1227.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Live markets: Bitcoin heads lower late Friday as Warsh takes over at Fed",
-      "url": "https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/34bd20e89601f70b0aad3c326419ec489ec583ca-8405x5604.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Trump Media moved but 'did not sell' $205 million in bitcoin amid rising losses on crypto bets",
-      "url": "https://www.coindesk.com/markets/2026/05/22/trump-media-moves-another-usd205m-in-bitcoin-as-losses-on-crypto-bet-swell-to-usd455m",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5ea85fd2f228cded77bd633f4ac8a9f9eb4bf0a-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
