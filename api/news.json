@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-05-30T02:09:29.310325Z",
+  "updated_at": "2026-05-31T02:35:17.476491Z",
   "articles": [
-    {
-      "source": "coindesk.com",
-      "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
-      "url": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3e122c11f3af7ae63f9dd46ee331ad25ceeee3fc-1796x1000.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
     {
       "source": "coindesk.com",
       "title": "Live markets: Bitcoin shrugs off early decline, but two-month winning streak is in jeopardy",
@@ -18,6 +12,12 @@
       "title": "Bitcoin slides to April lows as crypto diverges from record-chasing U.S. equities",
       "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-slides-to-april-lows-as-crypto-diverges-from-record-chasing-u-s-equities",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/e7ae83f8a5c84dee40c3c5d4e24a7f3941a66bc6-1850x1040.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
+      "url": "https://www.coindesk.com/business/2026/05/30/sec-sues-texas-man-over-usd12-3-million-alleged-crypto-scheme-built-on-fake-ai-trading-bots",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac4dbd7392625e4b7d80a9d014d051d307a4d10c-3681x2071.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
