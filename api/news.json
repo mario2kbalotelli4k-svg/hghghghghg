@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-05-31T02:35:17.476491Z",
+  "updated_at": "2026-06-01T02:44:33.198066Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch",
+      "url": "https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/51d936a75a196d53e2b331064e17b53e0b075f4c-728x423.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Live markets: Bitcoin shrugs off early decline, but two-month winning streak is in jeopardy",
@@ -9,15 +15,9 @@
     },
     {
       "source": "coindesk.com",
-      "title": "Bitcoin slides to April lows as crypto diverges from record-chasing U.S. equities",
-      "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-slides-to-april-lows-as-crypto-diverges-from-record-chasing-u-s-equities",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e7ae83f8a5c84dee40c3c5d4e24a7f3941a66bc6-1850x1040.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
-      "url": "https://www.coindesk.com/business/2026/05/30/sec-sues-texas-man-over-usd12-3-million-alleged-crypto-scheme-built-on-fake-ai-trading-bots",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac4dbd7392625e4b7d80a9d014d051d307a4d10c-3681x2071.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "How the House Financial Services Committee is taking on tokenization: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/05/31/how-the-house-financial-services-committee-is-taking-on-tokenization-state-of-crypto",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/eac9bf664ee92165f460fad8ca22eacdc2abd2d2-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
