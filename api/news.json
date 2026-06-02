@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-06-01T02:44:33.198066Z",
+  "updated_at": "2026-06-02T02:42:04.891604Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch",
-      "url": "https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/51d936a75a196d53e2b331064e17b53e0b075f4c-728x423.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Live markets: Bitcoin shrugs off early decline, but two-month winning streak is in jeopardy",
-      "url": "https://www.coindesk.com/markets/2026/05/29/live-markets-bitcoin-slides-further-putting-two-month-winning-streak-in-jeopardy",
+      "title": "Live markets: Bitcoin retreats under $72,000 as Strategy unloads BTC for first time in four years",
+      "url": "https://www.coindesk.com/markets/2026/06/01/live-markets-bitcoin-retreats-under-usd72-000-as-strategy-unloads-btc-for-first-time-in-four-years",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/bce0f33371330b08e2ce67dd4abee833c362a946-8000x4500.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "How the House Financial Services Committee is taking on tokenization: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/05/31/how-the-house-financial-services-committee-is-taking-on-tokenization-state-of-crypto",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/eac9bf664ee92165f460fad8ca22eacdc2abd2d2-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Bitcoin remains under pressure as ETF outflows, higher oil prices weigh on crypto markets",
+      "url": "https://www.coindesk.com/daybook-us/2026/06/01/bitcoin-remains-under-pressure-as-etf-outflows-higher-oil-prices-weigh-on-crypto-markets",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b991a4e1a084bd16a54e58f7aced3889bd333665-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Ethereum's Vitalik Buterin is rethinking how DeFi handles market crashes",
+      "url": "https://www.coindesk.com/tech/2026/06/01/ethereum-s-vitalik-buterin-is-rethinking-how-defi-handles-market-crashes",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/85b88a463a5eff9214ed505f64e45606efd09a61-3641x2427.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
