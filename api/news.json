@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-06-05T02:32:42.617720Z",
+  "updated_at": "2026-06-06T02:12:01.068559Z",
   "articles": [
     {
-      "source": "coindesk.com",
-      "title": "Bitcoin bounces, HYPE falls, NEAR gets demolished as crypto deals with a wipe out",
-      "url": "https://www.coindesk.com/markets/2026/06/04/live-markets-saylor-speaks-as-bitcoin-plunges-to-usd62-000",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/733a7a8d00f57da03f583adfe61788a201fbc9ca-3000x2104.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.com",
+      "title": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean",
+      "url": "https://www.bbc.com/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a84/live/96e73740-609e-11f0-ba44-5934558aeaa1.jpg"
     },
     {
       "source": "coindesk.com",
-      "title": "Standard Chartered's three 'Ifs' that stand between bitcoin and a market low",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/04/standard-chartered-s-three-ifs-that-stand-between-bitcoin-and-a-market-low",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/779bcb3924d790a1c64232784b0ad8a3b256ca77-5381x3587.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "CoinDesk 20 performance update: Bitcoin (BTC) price drops 2.8% as index declines",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/05/coindesk-20-performance-update-bitcoin-btc-price-drops-2-8-as-index-declines",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/16355edaa611b6d435ee70523c9372a4a3bf199a-640x480.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "source": "coindesk.com",
-      "title": "JPMorgan warns time is running short for crypto market structure bill",
-      "url": "https://www.coindesk.com/policy/2026/06/04/jpmorgan-warns-time-is-running-short-for-crypto-market-structure-bill",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5af22285c61d41791216141610671d8ccd475757-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.com",
+      "title": "Is there an AI stock market bubble, and is it ready to burst?",
+      "url": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3047/live/39bcce30-6049-11f1-8b8c-6d33e1d5abb6.jpg"
     }
   ]
 }
