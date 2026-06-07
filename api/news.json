@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T02:12:01.068559Z",
+  "updated_at": "2026-06-07T02:38:01.495419Z",
   "articles": [
     {
       "source": "bbc.com",
@@ -9,15 +9,15 @@
     },
     {
       "source": "coindesk.com",
-      "title": "CoinDesk 20 performance update: Bitcoin (BTC) price drops 2.8% as index declines",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/05/coindesk-20-performance-update-bitcoin-btc-price-drops-2-8-as-index-declines",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/16355edaa611b6d435ee70523c9372a4a3bf199a-640x480.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
+      "url": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c5d8433cb8991feb405cb67f964737e13634e4b5-1280x960.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "source": "bbc.com",
-      "title": "Is there an AI stock market bubble, and is it ready to burst?",
-      "url": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3047/live/39bcce30-6049-11f1-8b8c-6d33e1d5abb6.jpg"
+      "source": "coindesk.com",
+      "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
+      "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/1c8a63f6ee7a414798e251b283ea2323da6d3264-4147x2765.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
