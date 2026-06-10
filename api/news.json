@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-06-09T02:08:58.689549Z",
+  "updated_at": "2026-06-10T02:33:07.941921Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Circle debuts cirBTC on Ethereum to challenge Coinbase in the wrapped bitcoin market",
+      "url": "https://www.coindesk.com/business/2026/06/09/circle-debuts-cirbtc-on-ethereum-to-challenge-coinbase-in-the-wrapped-bitcoin-market",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/278d2d78dc415a98d2a0580582666d0cde922ad5-2132x1416.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "bbc.com",
       "title": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean",
@@ -9,15 +15,9 @@
     },
     {
       "source": "coindesk.com",
-      "title": "A crucial bitcoin market indicator is signaling that the worst of the crypto crash might be over",
-      "url": "https://www.coindesk.com/markets/2026/06/08/a-crucial-bitcoin-market-indicator-is-signaling-that-the-worst-of-the-crypto-crash-might-be-over",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/28b1a94149915bfe2334d8a4a2fc958c585a71c8-4032x3024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "U.S. inflation, European Central Bank rate decision: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/06/08/u-s-inflation-european-central-bank-rate-decision-crypto-week-ahead",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/0ee5eca8e4dbb143c3fbd6418fa5bfc8c12f0469-1600x977.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market",
+      "url": "https://www.coindesk.com/business/2026/06/09/securitize-ceo-says-tokenized-stocks-could-unlock-a-usd5-trillion-crypto-market",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5327659df02632f543fcef456e95431561ddbbd4-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
