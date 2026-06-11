@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-06-10T02:33:07.941921Z",
+  "updated_at": "2026-06-11T02:43:15.842746Z",
   "articles": [
-    {
-      "source": "coindesk.com",
-      "title": "Circle debuts cirBTC on Ethereum to challenge Coinbase in the wrapped bitcoin market",
-      "url": "https://www.coindesk.com/business/2026/06/09/circle-debuts-cirbtc-on-ethereum-to-challenge-coinbase-in-the-wrapped-bitcoin-market",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/278d2d78dc415a98d2a0580582666d0cde922ad5-2132x1416.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
     {
       "source": "bbc.com",
       "title": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean",
@@ -15,9 +9,15 @@
     },
     {
       "source": "coindesk.com",
-      "title": "Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market",
-      "url": "https://www.coindesk.com/business/2026/06/09/securitize-ceo-says-tokenized-stocks-could-unlock-a-usd5-trillion-crypto-market",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5327659df02632f543fcef456e95431561ddbbd4-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market",
+      "url": "https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac7f5e6e1bf25845f6faf4d95ecf11e7d89acc6c-5848x3899.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's",
+      "url": "https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/34f87cc0ab8b34f6b3272af6d392caf1f8795bef-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
