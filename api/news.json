@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-06-12T02:38:49.916258Z",
+  "updated_at": "2026-06-13T02:31:43.497876Z",
   "articles": [
     {
-      "source": "coindesk.com",
-      "title": "Bitcoin has reached a deep bear-market valuation zone. The hard part may come next.",
-      "url": "https://www.coindesk.com/markets/2026/06/11/bitcoin-has-reached-a-deep-bear-market-valuation-zone-the-hard-part-may-come-next",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e218f7d1216239a2ac23f336359e79c2c77091ff-2560x1267.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market",
-      "url": "https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac7f5e6e1bf25845f6faf4d95ecf11e7d89acc6c-5848x3899.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
       "source": "bbc.com",
-      "title": "Elon Musk's SpaceX raises $75bn ahead of record stock market debut",
-      "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3800/live/3c948cc0-65cf-11f1-94fa-99c9438be586.jpg"
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f94f/live/233c68e0-66a3-11f1-80bb-fb4d08542828.jpg"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
+      "url": "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "VanEck bets BNB’s real-world usage can stand out in a crowded crypto ETF market",
+      "url": "https://www.coindesk.com/markets/2026/06/12/vaneck-bets-bnb-s-real-world-usage-can-stand-out-in-a-crowded-crypto-etf-market",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/591ebb1d6a707d8b8d862afa4610b4958bd2ccaf-1540x864.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
