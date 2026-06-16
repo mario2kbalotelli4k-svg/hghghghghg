@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-06-15T02:47:47.513924Z",
+  "updated_at": "2026-06-16T02:50:17.914845Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "‘Crypto spring’ is here, says one analyst after bitcoin's key signals turn bullish",
+      "url": "https://www.coindesk.com/markets/2026/06/15/crypto-spring-is-here-says-one-analyst-after-bitcoin-s-key-signals-turn-bullish",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/aafc6f31342d66979600c1f233d3b4120584a6e7-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Live markets: Bitcoin gives back some gains as SpaceX's post-IPO rally extends to 40%",
+      "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/799ec82cc06f93430744f2439c852ecaaddad110-7318x4879.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
       "url": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee75b495953416ed9160ebd740f67ea4c78d4495-7250x4836.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
-      "url": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3be19738ab3221104278b2e6521aeccdbdcf8ea4-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
-      "url": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
