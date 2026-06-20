@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-06-19T02:59:19.961601Z",
+  "updated_at": "2026-06-20T02:31:54.185267Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Live markets: Bitcoin under pressure as Saylor comments on STRC selloff",
+      "url": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/024d211d615916fbb53501cbb63dc60c856cab12-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Crypto for Advisors: Trading the bitcoin cycle",
@@ -12,12 +18,6 @@
       "title": "Bitcoin's nemesis, the Dollar Index, is on the verge of a major breakout",
       "url": "https://www.coindesk.com/daybook-us/2026/06/18/bitcoin-s-nemesis-the-dollar-index-is-on-the-verge-of-a-major-breakout",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/e8c82ae61f612938f328059badeed4de63c688a0-1280x720.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Crypto market positioning is 'defensive and thin' after Fed, Marex  analysts say",
-      "url": "https://www.coindesk.com/markets/2026/06/18/crypto-market-positioning-is-defensive-and-thin-after-fed-marex-analysts-say",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5bb6665603cba898a64327ba8e6718a4e62e81f0-5652x3780.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
