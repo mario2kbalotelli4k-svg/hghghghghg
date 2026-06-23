@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-06-22T02:49:12.071361Z",
+  "updated_at": "2026-06-23T02:14:45.646369Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "Live markets: Bitcoin under pressure as Saylor comments on STRC selloff",
-      "url": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/024d211d615916fbb53501cbb63dc60c856cab12-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "OKX and NYSE partner to bridge tradfi and crypto markets in joint venture led by Andrew Cuomo",
+      "url": "https://www.coindesk.com/markets/2026/06/22/okx-and-nyse-partner-to-bridge-tradfi-and-crypto-markets-in-joint-venture-led-by-andrew-cuomo",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b77232079e0993eff1475723f5f2d274d2c0c8cb-2048x1337.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "Crypto for Advisors: Trading the bitcoin cycle",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/17/crypto-for-advisors-trading-the-bitcoin-cycle",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a20e2625ba9218f5748c04814b5ad48f67b00df3-5397x3598.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Live markets: Bitcoin gives up morning gains as Nasdaq sheds more than 1%",
+      "url": "https://www.coindesk.com/tech/2026/06/22/live-markets-bitcoin-is-stuck-near-usd64-000-as-etf-outflows-reach-a-sixth-week",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2180f062d339af02b2052281b305e8f75b13fdef-1920x1281.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "source": "coindesk.com",
-      "title": "Bitcoin's nemesis, the Dollar Index, is on the verge of a major breakout",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/18/bitcoin-s-nemesis-the-dollar-index-is-on-the-verge-of-a-major-breakout",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e8c82ae61f612938f328059badeed4de63c688a0-1280x720.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.com",
+      "title": "Tech giant Oracle sheds 21,000 jobs in a year as AI replaces some roles",
+      "url": "https://www.bbc.com/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/011d/live/21b2c920-6e9a-11f1-ae80-bf13157382fa.jpg"
     }
   ]
 }
