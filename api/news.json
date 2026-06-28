@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-06-27T02:14:35.131799Z",
+  "updated_at": "2026-06-28T02:35:49.557658Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Why a selloff in gold and silver is dragging bitcoin down",
+      "url": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e83ed3c77b09119b6f00c9fcc99749721c317d58-1440x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
+      "url": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e967c0a6b3495d0572d5a7ca83e35490a1e10f74-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
       "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/36f114a53bbcdea37ae44f32f67ff528318e79c3-1280x960.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "With crypto ending the first half in the red, bitcoin's solace is it beat Strategy",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/26/with-crypto-ending-the-first-half-in-the-red-bitcoin-s-solace-is-it-beat-strategy",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/af6c7296aaac973531cfc82399e98aaf57b584d4-1000x700.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Live markets: Bitcoin edges higher as U.S. stocks recover from big early losses",
-      "url": "https://www.coindesk.com/tech/2026/06/26/live-markets-bitcoin-rebounds-to-nearly-usd60-000-kospi-nikkei-sink",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e183c12b5e1dbaf0e0175a58c3a9425adb7b3de5-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
