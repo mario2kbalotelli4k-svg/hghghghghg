@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-06-30T02:30:38.546085Z",
+  "updated_at": "2026-07-01T02:36:42.146708Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "Dollar, U.S. Treasury yield market positions may carry glimmer of hope for bitcoin",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/29/dollar-u-s-treasury-yield-market-positions-may-carry-glimmer-of-hope-for-bitcoin",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/524125f419dec4d77940d7e52901f4b8846297b4-2400x1600.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Jefferies warns of crypto market volatility as Clarity Act faces Senate test",
+      "url": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a03886b63f9f486ffe9b1e5246f92bf2b612c49-1500x998.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "JPMorgan urges strong safeguards as congress weighs crypto market structure rules",
-      "url": "https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/0a06cf8d9c7371c3850f2ea8494eeaf50ab6c0c7-8640x5760.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Bitcoin's correlation with dollar-yen rate hits -0.90, undercutting 'carry trade' theory",
+      "url": "https://www.coindesk.com/markets/2026/06/30/bitcoin-s-52-week-correlation-with-usd-jpy-hits-0-90-undercutting-carry-trade-theory",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/4bd9ddd8935bb015c13187264cb6839b059605a3-2400x1632.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "Bitcoin hovers below $60,000 as crypto braces for a pivotal week",
-      "url": "https://www.coindesk.com/markets/2026/06/29/bitcoin-hovers-below-usd60-000-as-crypto-braces-for-a-pivotal-week",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/93d4fbdf4e42de97336ad5b6c84d6d76b5386fb2-1864x988.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Live updates: bitcoin closes out weak quarter; Trump reports over $1 billion in crypto proceeds",
+      "url": "https://www.coindesk.com/tech/2026/06/30/live-updates-blackrock-s-ibit-sheds-usd300-million-as-bitcoin-demand-dwindles",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/84a461bc77fdc8be2e55a8cfa0a0aa196e958396-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
