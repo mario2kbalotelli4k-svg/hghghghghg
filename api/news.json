@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-01T02:36:42.146708Z",
+  "updated_at": "2026-07-02T02:26:16.131492Z",
   "articles": [
     {
-      "source": "coindesk.com",
-      "title": "Jefferies warns of crypto market volatility as Clarity Act faces Senate test",
-      "url": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a03886b63f9f486ffe9b1e5246f92bf2b612c49-1500x998.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.co.uk",
+      "title": "Trump's $1.4bn crypto earnings revealed",
+      "url": "https://www.bbc.co.uk/news/videos/c39ywez8r1ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ac/live/9d10f440-7555-11f1-a627-714adb4eed6e.jpg"
     },
     {
       "source": "coindesk.com",
-      "title": "Bitcoin's correlation with dollar-yen rate hits -0.90, undercutting 'carry trade' theory",
-      "url": "https://www.coindesk.com/markets/2026/06/30/bitcoin-s-52-week-correlation-with-usd-jpy-hits-0-90-undercutting-carry-trade-theory",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/4bd9ddd8935bb015c13187264cb6839b059605a3-2400x1632.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Cantor says bitcoin bear market may be entering final stretch",
+      "url": "https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/af5533562893e00a029eaace0996b96eacade301-1905x1072.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "Live updates: bitcoin closes out weak quarter; Trump reports over $1 billion in crypto proceeds",
-      "url": "https://www.coindesk.com/tech/2026/06/30/live-updates-blackrock-s-ibit-sheds-usd300-million-as-bitcoin-demand-dwindles",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/84a461bc77fdc8be2e55a8cfa0a0aa196e958396-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Bitcoin breaks above $60,000 after Fed Chair Warsh said inflation risks has come down",
+      "url": "https://www.coindesk.com/markets/2026/07/01/bitcoin-retakes-usd60-000-level-after-fed-chair-warsh-said-inflation-risks-has-come-down",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/0d9b13f93394936e876ea4478fac1170701d6748-4717x3145.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
