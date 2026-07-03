@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-07-02T02:26:16.131492Z",
+  "updated_at": "2026-07-03T02:01:09.144019Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "JPMorgan says Strategy's bitcoin sales policy adds 'two-way risk' to crypto markets",
+      "url": "https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3a6393eb4ae1f1db4ef1caec0023161c16707226-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "bbc.co.uk",
       "title": "Trump's $1.4bn crypto earnings revealed",
@@ -9,15 +15,9 @@
     },
     {
       "source": "coindesk.com",
-      "title": "Cantor says bitcoin bear market may be entering final stretch",
-      "url": "https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/af5533562893e00a029eaace0996b96eacade301-1905x1072.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Bitcoin breaks above $60,000 after Fed Chair Warsh said inflation risks has come down",
-      "url": "https://www.coindesk.com/markets/2026/07/01/bitcoin-retakes-usd60-000-level-after-fed-chair-warsh-said-inflation-risks-has-come-down",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/0d9b13f93394936e876ea4478fac1170701d6748-4717x3145.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate",
+      "url": "https://www.coindesk.com/business/2026/07/02/sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoin-s-hashrate",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e4ca7bbcf33940ac3a79675ca9923d61aeededd5-1920x1077.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
