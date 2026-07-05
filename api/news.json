@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-04T01:59:15.615271Z",
+  "updated_at": "2026-07-05T02:07:20.191964Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "JPMorgan says Strategy's bitcoin sales policy adds 'two-way risk' to crypto markets",
-      "url": "https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3a6393eb4ae1f1db4ef1caec0023161c16707226-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Europe led on crypto regulation. Now implementation must match ambition",
+      "url": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d66edc8a47164a492bb2c8c22015c0908dc4cd8c-8256x5504.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
+      "url": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/4b2b0c4fb42c84e87e79191a60ccfaa14114efd5-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
       "title": "Bitcoin, ether traders aren't fully buying the bounce, options markets show",
       "url": "https://www.coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/3a5f22979dcf5b1de42cdd835413cbb79e8e020d-1500x995.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate",
-      "url": "https://www.coindesk.com/business/2026/07/02/sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoin-s-hashrate",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e4ca7bbcf33940ac3a79675ca9923d61aeededd5-1920x1077.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
