@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-07T02:07:55.951707Z",
+  "updated_at": "2026-07-08T01:48:49.539788Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "Russia's largest bank plans crypto wallet launch as Moscow clears market path",
-      "url": "https://www.coindesk.com/business/2026/07/06/russia-s-largest-bank-plans-crypto-wallet-launch-as-moscow-clears-market-path",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/69d88d811de6cddb538ec7d407061b9d441d2dd2-2048x1536.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Crypto exchange Kraken is trying to become a bank in Europe",
+      "url": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "U.S. inflation outlook underpins bitcoin bulls after best week since March",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/06/u-s-inflation-outlook-underpins-bitcoin-bulls-after-best-week-since-march",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd01b66b66df0443b467b0ff748fed12359bdc67-5472x3078.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Bitcoin drops after a run at $64,000, shrugging off Strategy's $213 million BTC sale",
+      "url": "https://www.coindesk.com/markets/2026/07/07/bitcoin-drops-after-a-run-at-usd64-000-shrugging-off-strategy-s-usd213-million-btc-sale",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e218f7d1216239a2ac23f336359e79c2c77091ff-2560x1267.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "source": "coindesk.com",
-      "title": "Live markets: Bitcoin recoups early decline, rising back above $63,000",
-      "url": "https://www.coindesk.com/tech/2026/07/06/live-markets-bitcoin-pops-to-usd63-900-then-reverses-as-week-begins",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b493c99f24041995835d8e2277b6bfaa7d3d802d-1500x922.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.co.uk",
+      "title": "Package holidays to Dubai and Egypt cheaper as European prices creep up",
+      "url": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b635/live/a03a6a70-7a19-11f1-b976-0b9c15b0ccfc.jpg"
     }
   ]
 }
