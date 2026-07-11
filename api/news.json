@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-07-10T01:59:40.390157Z",
+  "updated_at": "2026-07-11T01:47:30.745489Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold",
+      "url": "https://www.coindesk.com/daybook-us/2026/07/10/japan-s-invest-locally-plan-likely-to-spur-demand-for-assets-like-bitcoin-gold",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/8084d437acef0b7abd54ddbc7772f8ce7e5f01b0-4885x2748.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks",
@@ -12,12 +18,6 @@
       "title": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
       "url": "https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/c3c673f6ba55ed0cd79499681ca46b7a8b5f7e86-5150x3427.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Pricing houses in bitcoin exposes dollar's loss of value",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/09/pricing-houses-in-bitcoin-exposes-dollar-s-loss-of-value",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5732b301d15fada3b0745800f06ab416d2311b05-2400x1350.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
