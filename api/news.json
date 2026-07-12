@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-11T01:47:30.745489Z",
+  "updated_at": "2026-07-12T01:50:08.453251Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+      "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/254961a3adc7c5698b4ba47d0de96c8605400978-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+      "url": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f4c321fb46fab8f95fc281073bbf1a2544f78eb7-2328x1492.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold",
       "url": "https://www.coindesk.com/daybook-us/2026/07/10/japan-s-invest-locally-plan-likely-to-spur-demand-for-assets-like-bitcoin-gold",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/8084d437acef0b7abd54ddbc7772f8ce7e5f01b0-4885x2748.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks",
-      "url": "https://www.coindesk.com/markets/2026/07/09/billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-market-risks",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/acff788d593a11a429ff5ac3f8202562c0e78c86-5184x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
-      "url": "https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c3c673f6ba55ed0cd79499681ca46b7a8b5f7e86-5150x3427.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
