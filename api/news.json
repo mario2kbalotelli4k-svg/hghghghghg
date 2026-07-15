@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-14T01:28:58.290924Z",
+  "updated_at": "2026-07-15T01:25:57.225144Z",
   "articles": [
     {
-      "source": "bbc.co.uk",
-      "title": "The secretive crypto firm backed by Farage's biggest donor",
-      "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae0/live/c36317c0-7ef3-11f1-83a7-0959f8cc10cc.jpg"
+      "source": "coindesk.com",
+      "title": "Bitcoin steadies at $62,600 as South Koreans flee stocks rout for crypto",
+      "url": "https://www.coindesk.com/markets/2026/07/14/bitcoin-steadies-at-usd62-600-as-south-koreans-flee-stocks-rout-for-crypto",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9e9a9ad4e70deb3c49b8bb45bc3f7b4cd9e120f8-1862x982.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share",
-      "url": "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/aa3e1bbfa6d9c29a9094006b934854fec90c84fc-810x418.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Live updates: Bitcoin rises past $64,000 after soft inflation data, Warsh testimony",
+      "url": "https://www.coindesk.com/business/2026/07/14/live-updates-bitcoin-holds-usd62-600-as-the-iran-conflict-reignites-and-cpi-looms",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/795c4da9d444b6e877bf0fe2553fc03d30ef461d-6981x4654.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "U.S. inflation, second-quarter earnings reports: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/07/13/u-s-inflation-second-quarter-earnings-reports-crypto-week-ahead",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/21526e2b03174760b5362a6b9c761c3e24ae28be-1500x852.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report",
+      "url": "https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c73c945595228352c4688aa08e65cbcc5eac3811-2863x1086.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
