@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-17T01:49:28.801928Z",
+  "updated_at": "2026-07-18T01:30:04.151246Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Live markets: Bitcoin returns to $63,000 as Nasdaq trims large early loss",
+      "url": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ec16b0d98820048d0801ef198a8c4e6ca1e6f687-4608x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Risk-off wave drags bitcoin below $63,000 as AI selloff spreads from stocks to crypto",
+      "url": "https://www.coindesk.com/markets/2026/07/17/risk-off-wave-drags-bitcoin-below-usd63-000-as-ai-selloff-spreads-from-stocks-to-crypto",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/da2616937900c42d04e267c199e5905a24c2631d-1854x992.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
       "url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5299ecc154fdbe24a248c1ed8a93c29d1a1a3b6-7093x4731.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Two groups of crypto investors are selling bitcoin to cap its latest price recovery",
-      "url": "https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d62dea31c05f153f4407ebc45f48ddfab943da6-1280x905.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
-      "url": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/4558fe33f280cde6e4df3eb29acb93a4b771c07f-3000x1791.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
