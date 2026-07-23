@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-07-22T01:46:37.729171Z",
+  "updated_at": "2026-07-23T01:53:32.659588Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface",
+      "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-retreats-from-one-month-high-as-oil-tops-usd85-inflation-concerns-resurface",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0dbe09a5b7d06f5fc3740e86127c0a21e75e9ec-1864x998.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say",
@@ -9,15 +15,9 @@
     },
     {
       "source": "coindesk.com",
-      "title": "Russia’s parliament passes crypto market law with $3,800 annual cap for retail investors",
-      "url": "https://www.coindesk.com/policy/2026/07/21/russia-s-parliament-passes-crypto-market-law-rules-to-take-effect-sept-1",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/58e0c95c5b0f73d0d0007ecd7f18d3a3b1e6a13d-3992x2242.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Crypto markets rally on Clarity progress report, Asian chip-stock rebound",
-      "url": "https://www.coindesk.com/markets/2026/07/21/crypto-markets-rally-on-clarity-progress-report-asian-chip-stock-rebound",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ae075692e2a89c19b2ecc41161a59e15cf46ad9-1290x665.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
+      "url": "https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e3591183f12e34a5a144345e711282f05514f28c-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
