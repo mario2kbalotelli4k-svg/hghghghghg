@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-26T01:52:44.264953Z",
+  "updated_at": "2026-07-27T02:00:42.556591Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+      "url": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/26ef4a42694e2ce56d7a2adb3390531576e3007b-3834x2556.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
+      "url": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/030d61604f4bdf32cd4013015de2ad6a80a15e24-7200x4800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
       "url": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Crypto market maker B2C2 held sale talks with multiple potential buyers",
-      "url": "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/8da0275422489abf75f6dc703d2c645c27ac6f41-7360x4140.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Bitcoin settles near $65,000 as oil's march toward $100 fails to spook the market",
-      "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-settles-near-usd65-000-as-oil-s-march-toward-usd100-fails-to-spook-the-market",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e8450b5fd2ea53520d4c9b8a233c30546550b731-1862x994.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
