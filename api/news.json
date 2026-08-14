@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-13T01:08:11.403328Z",
+  "updated_at": "2026-08-14T01:06:23.826085Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
-      "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7146178019a1ec7dc2d3b45b9e54eb4155bc8715-1280x720.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+      "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/090e5c77bf9a39a85f3ba365ccf65e1cbecb6a4f-3781x2129.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "bbc.co.uk",
+      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e4/live/79e44fc0-94a0-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "source": "coindesk.com",
-      "title": "Crypto Long & Short: When capital can't move fast enough, markets pay the price",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f0cf2bf8208fb2fc29b3923719014cd9c42ffeb-5721x3816.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000",
-      "url": "https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/89c5e8657bef13a22f62dd2509e13866cab91b45-909x524.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
+      "url": "https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/acf831401ea851c7551eb13183b3f53d9be886a8-7146x4766.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
