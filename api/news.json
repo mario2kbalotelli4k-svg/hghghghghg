@@ -1,9 +1,15 @@
 {
-  "updated_at": "2026-09-03T02:06:48.767721Z",
+  "updated_at": "2026-09-04T02:03:04.683299Z",
   "articles": [
     {
       "source": "bbc.co.uk",
-      "title": "Trump $1 coin makes him first president on US currency in a century",
+      "title": "Watch: Trump $1 commemorative coin goes on sale",
+      "url": "https://www.bbc.co.uk/news/videos/cx2z0jn7450o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc36/live/2d3e3ed0-a7d6-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "source": "bbc.co.uk",
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
       "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb6a/live/cc827800-a72f-11f1-b970-fbb8e613a3a7.jpg"
     },
@@ -12,12 +18,6 @@
       "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
       "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d7/live/19860b20-a6e6-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "source": "bbc.co.uk",
-      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
-      "url": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b0/live/d36b9110-a6cb-11f1-a291-b542ee92de7c.jpg"
     }
   ]
 }
