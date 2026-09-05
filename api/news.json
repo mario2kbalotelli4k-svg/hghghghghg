@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-09-04T02:03:04.683299Z",
+  "updated_at": "2026-09-05T02:03:27.686703Z",
   "articles": [
+    {
+      "source": "bbc.co.uk",
+      "title": "From 'dog fruit' to darling: India's avocado boom",
+      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985c/live/f13cd3e0-96f7-11f1-870d-5d08c49babb2.jpg"
+    },
     {
       "source": "bbc.co.uk",
       "title": "Watch: Trump $1 commemorative coin goes on sale",
@@ -12,12 +18,6 @@
       "title": "Trump $1 coin makes him first living president on US currency in a century",
       "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb6a/live/cc827800-a72f-11f1-b970-fbb8e613a3a7.jpg"
-    },
-    {
-      "source": "bbc.co.uk",
-      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d7/live/19860b20-a6e6-11f1-b109-879e35c24276.jpg"
     }
   ]
 }
