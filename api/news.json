@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-09T02:11:39.192329Z",
+  "updated_at": "2026-09-10T02:09:34.472998Z",
   "articles": [
     {
       "source": "bbc.co.uk",
-      "title": "Why are European countries moving their gold out of North America?",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/1f74ae20-a870-11f1-bbad-43eaf67b94b6.jpg"
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg"
+    },
+    {
+      "source": "bbc.co.uk",
+      "title": "Singaporean man pleads guilty in US to massive crypto heist",
+      "url": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7a/live/c2fc9470-abfb-11f1-8c98-1196ec471ea3.jpg"
     },
     {
       "source": "bbc.co.uk",
       "title": "From 'dog fruit' to darling: India's avocado boom",
       "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985c/live/f13cd3e0-96f7-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
-      "source": "bbc.co.uk",
-      "title": "US slaps import ban on Canadian alcohol and other goods",
-      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08b5/live/f578ba70-abe0-11f1-b727-455d73198a95.jpg"
     }
   ]
 }
