@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-11T02:06:16.726680Z",
+  "updated_at": "2026-09-12T02:11:44.328151Z",
   "articles": [
     {
       "source": "bbc.co.uk",
-      "title": "Can Europe recharge its battery industry?",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac3e/live/cd5970d0-acf2-11f1-a540-61c3f7fc4e6c.jpg"
+      "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+      "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e56/live/494cd5f0-adee-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
       "source": "bbc.co.uk",
-      "title": "Are interest rates on the way up again?",
+      "title": "US prices remain high as fuel costs squeeze household budgets",
+      "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39dc/live/efa1fdd0-addb-11f1-8b98-35ffe039e825.jpg"
+    },
+    {
+      "source": "bbc.co.uk",
+      "title": "Interest rates could rise again across the world – here's why",
       "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg"
-    },
-    {
-      "source": "bbc.co.uk",
-      "title": "Social supermarket reports hundreds of sign-ups",
-      "url": "https://www.bbc.co.uk/news/articles/cgjqywqz1w3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe5a/live/73c64f90-ac55-11f1-9e64-05835b0b18f8.jpg"
     }
   ]
 }
