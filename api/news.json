@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-09-12T02:11:44.328151Z",
+  "updated_at": "2026-09-13T02:08:15.601713Z",
   "articles": [
+    {
+      "source": "bbc.co.uk",
+      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+      "url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d0/live/06b5b760-aeb2-11f1-ae38-d350b022f499.jpg"
+    },
     {
       "source": "bbc.co.uk",
       "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
@@ -12,12 +18,6 @@
       "title": "US prices remain high as fuel costs squeeze household budgets",
       "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39dc/live/efa1fdd0-addb-11f1-8b98-35ffe039e825.jpg"
-    },
-    {
-      "source": "bbc.co.uk",
-      "title": "Interest rates could rise again across the world – here's why",
-      "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg"
     }
   ]
 }
