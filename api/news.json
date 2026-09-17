@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-16T02:25:18.997324Z",
+  "updated_at": "2026-09-17T02:29:23.394156Z",
   "articles": [
     {
       "source": "coindesk.com",
-      "title": "Nigel Farage-backed Stack BTC plans to acquire a gold dealer for $16 million to fund bitcoin buy",
-      "url": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/54d425afad71df8d6e1593c490cf930909b6742f-640x360.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/abfc53cb8936b0ca235301bd25a7729a38804863-4928x3264.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "bbc.co.uk",
+      "title": "Interest rates hold expected but Bank of England facing tough choices",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a58a/live/dab4a350-b1be-11f1-bdcf-d393eb724fa3.jpg"
     },
     {
       "source": "coindesk.com",
-      "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
-      "url": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
-      "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9169b3ce79395c7b56a98fd9781f13842780d443-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
+      "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/00c315459375cb1046e10cb7540bafa9dfe690b4-3761x2456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
