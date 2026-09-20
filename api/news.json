@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T02:17:39.248736Z",
+  "updated_at": "2026-09-20T02:26:25.602599Z",
   "articles": [
     {
       "source": "coindesk.com",
@@ -14,10 +14,10 @@
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     },
     {
-      "source": "coindesk.com",
-      "title": "Crypto for Advisors: The case for diversifying beyond bitcoin and ether",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9052ffe1b38183c086273c6f263b678678736d69-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "source": "bbc.co.uk",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg"
     }
   ]
 }
