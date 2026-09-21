@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-09-20T02:26:25.602599Z",
+  "updated_at": "2026-09-21T02:24:48.858462Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
+      "url": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
@@ -12,12 +18,6 @@
       "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
       "url": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "bbc.co.uk",
-      "title": "Not all AI workers think the tech could kill everyone",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg"
     }
   ]
 }
