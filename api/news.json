@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-29T03:20:39.350156Z",
+  "updated_at": "2026-09-30T03:03:18.364180Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin surging to $100,000 may be in play, after outperforming gold",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a77c714f950490d92fe6afe133dc6a75706c94e-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+      "url": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bc2fa5ce3b1b8ae3a33a66f3abe1158bea8b2d1-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
       "url": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/60dbe787741b3cbc62bdc5cb2d6cb94fbe3ea9ea-5800x3868.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Caution builds in the bitcoin market even as prices stay well above summer lows",
-      "url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/babb8de4595496b1a7326290dc7d02a14313e72b-3200x1800.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
-      "url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
