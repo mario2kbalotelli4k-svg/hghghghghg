@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-30T03:03:18.364180Z",
+  "updated_at": "2026-10-01T03:09:43.061142Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
+      "url": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/59649de679b20dd867fdcd1283056b257b3d8347-5000x3333.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/06f9974551b92ff2c0e83fd58e9c80ee9bbcf512-1600x900.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Bitcoin surging to $100,000 may be in play, after outperforming gold",
       "url": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a77c714f950490d92fe6afe133dc6a75706c94e-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
-      "url": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bc2fa5ce3b1b8ae3a33a66f3abe1158bea8b2d1-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
-      "url": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/60dbe787741b3cbc62bdc5cb2d6cb94fbe3ea9ea-5800x3868.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
     }
   ]
 }
