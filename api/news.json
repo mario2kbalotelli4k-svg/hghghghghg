@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-07T03:22:25.067410Z",
+  "updated_at": "2026-10-08T03:37:10.246608Z",
   "articles": [
     {
-      "source": "bbc.co.uk",
-      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png"
+      "source": "coindesk.com",
+      "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+      "url": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3430df54acdfaf6a8455e0fbd567673c2d85d35-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
       "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
       "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/48e1bc98ccc51766412e64283bb94e7d3faa1a55-3000x2001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/48e1bc98ccc51766412e64283bb94e7d3faa1a55-3000x2001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
-      "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d6f178b9823ada860129fe771c32694011310c3-3524x1982.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+      "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/69ed00cb4ec4e063082ec14eff25a2ceaf999315-1500x901.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
     }
   ]
 }
