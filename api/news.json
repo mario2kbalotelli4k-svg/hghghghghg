@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-10T03:25:08.420653Z",
+  "updated_at": "2026-10-11T02:58:08.529017Z",
   "articles": [
+    {
+      "source": "coindesk.com",
+      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/da869b6d20769064b581c36b54624fe52be0dfbb-1500x913.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+      "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/564d4c8495b94d94a0db2e6e7301c2e2029243ca-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+    },
     {
       "source": "coindesk.com",
       "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
       "url": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1989cca173a6179b4bf2c5e784f3cb6ef51c75a-1000x668.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-      "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ed99ad8e1d2af4b11b0bb301a546dddccbf65e4-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-    },
-    {
-      "source": "coindesk.com",
-      "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-      "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b063c17ac3fe517655237e5d48234c80c38753b9-6000x3999.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
     }
   ]
 }
