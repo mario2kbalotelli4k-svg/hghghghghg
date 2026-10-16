@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T02:24:24.671886Z",
+  "updated_at": "2026-10-16T02:18:15.093685Z",
   "articles": [
     {
       "source": "coindesk.com",
@@ -8,16 +8,16 @@
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/cf236124298c64926d37601e39c5a05a5c54ffd0-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
     },
     {
-      "source": "bbc.co.uk",
-      "title": "Wayfair among firms fined millions for misleading sales tactics",
-      "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae51/live/acad1cb0-c7aa-11f1-a624-a3d8608fc192.jpg"
+      "source": "coindesk.com",
+      "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f8437e589e595529cc560ac6a76355d8b08defb-5184x3456.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
     },
     {
       "source": "coindesk.com",
-      "title": "Here's how analysts see U.S. inflation influencing bitcoin",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/0ee5eca8e4dbb143c3fbd6418fa5bfc8c12f0469-1600x977.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
+      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ac927ec281513c4179cc6fd9f1dbb52289fbeb4-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
     }
   ]
 }
