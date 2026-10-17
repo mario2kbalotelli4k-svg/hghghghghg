@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-10-16T02:18:15.093685Z",
+  "updated_at": "2026-10-17T02:10:42.499653Z",
   "articles": [
-    {
-      "source": "coindesk.com",
-      "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cf236124298c64926d37601e39c5a05a5c54ffd0-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
-    },
     {
       "source": "coindesk.com",
       "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
@@ -18,6 +12,12 @@
       "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
       "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ac927ec281513c4179cc6fd9f1dbb52289fbeb4-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+    },
+    {
+      "source": "coindesk.com",
+      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+      "url": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/725e54466a506d18ddd589c3163082c4f09cc8f6-2704x1544.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
     }
   ]
 }
