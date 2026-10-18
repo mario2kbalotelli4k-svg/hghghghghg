@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T02:10:42.499653Z",
+  "updated_at": "2026-10-18T02:10:29.790985Z",
   "articles": [
     {
       "source": "coindesk.com",
@@ -8,16 +8,16 @@
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f8437e589e595529cc560ac6a76355d8b08defb-5184x3456.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
     },
     {
-      "source": "coindesk.com",
-      "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
-      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ac927ec281513c4179cc6fd9f1dbb52289fbeb4-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      "source": "bbc.co.uk",
+      "title": "Wayfair among firms fined millions for misleading sales tactics",
+      "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae51/live/acad1cb0-c7aa-11f1-a624-a3d8608fc192.jpg"
     },
     {
       "source": "coindesk.com",
-      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
-      "url": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/725e54466a506d18ddd589c3163082c4f09cc8f6-2704x1544.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+      "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/25ff7074f50fa460f087e97f7ba81d48d2cdce60-3000x2147.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
     }
   ]
 }
