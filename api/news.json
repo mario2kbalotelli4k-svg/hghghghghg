@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T02:33:49.031609Z",
+  "updated_at": "2026-10-25T02:21:30.987870Z",
   "articles": [
     {
       "source": "coindesk.com",
@@ -9,15 +9,15 @@
     },
     {
       "source": "coindesk.com",
-      "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/382be2e9744cb8a41cd938a03779c9279af9c096-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cbbb05ae60659ef1c46287aae06ad1132421ba3-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
     },
     {
       "source": "coindesk.com",
-      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-      "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d45f74af3bf643e7376c8cc581b322b4ae39f779-2220x1267.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+      "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/382be2e9744cb8a41cd938a03779c9279af9c096-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
     }
   ]
 }
