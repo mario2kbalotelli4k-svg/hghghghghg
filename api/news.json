@@ -1,12 +1,6 @@
 {
-  "updated_at": "2026-11-16T03:52:25.994063Z",
+  "updated_at": "2026-11-17T05:45:29.530391Z",
   "articles": [
-    {
-      "source": "bbc.co.uk",
-      "title": "What do Christmas market traders say about rising prices?",
-      "url": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e35a/live/9818c800-deaf-11f1-8fb5-a771a656a227.jpg"
-    },
     {
       "source": "bbc.co.uk",
       "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
@@ -15,9 +9,15 @@
     },
     {
       "source": "bbc.co.uk",
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg"
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9282/live/a5ccbcd0-b660-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "source": "bbc.com",
+      "title": "خمس دول في الاتحاد الأوروبي تعلن عن إنشاء مركز لترحيل المهاجرين في رواندا",
+      "url": "https://www.bbc.com/arabic/articles/cw8dvqevm8n6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bce0/live/eae3a4a0-e1df-11f1-99a1-253766e7ad8b.jpg"
     }
   ]
 }
