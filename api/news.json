@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-23T04:47:44.623660Z",
+  "updated_at": "2026-11-24T07:38:44.568664Z",
   "articles": [
     {
       "source": "bbc.co.uk",
-      "title": "What is going on with Poundland?",
+      "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+      "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/247a/live/f0d58200-e4d4-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "source": "bbc.co.uk",
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg"
+    },
+    {
+      "source": "bbc.co.uk",
+      "title": "Poundland is facing collapse - what's gone wrong?",
       "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b3/live/3c7f3110-d7bf-11f1-a719-bf3dc3a3d5b5.jpg"
-    },
-    {
-      "source": "bbc.co.uk",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
-    },
-    {
-      "source": "bbc.co.uk",
-      "title": "Thousands join cost of living protests across Europe",
-      "url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2106/live/d570a170-e4e8-11f1-99b6-a35a62fa4264.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/419f/live/4c718920-e713-11f1-99a1-253766e7ad8b.jpg"
     }
   ]
 }
