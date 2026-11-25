@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-24T07:38:44.568664Z",
+  "updated_at": "2026-11-25T06:07:37.225395Z",
   "articles": [
     {
       "source": "bbc.co.uk",
-      "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
-      "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/247a/live/f0d58200-e4d4-11f1-a094-5fdc692f3e33.jpg"
+      "title": "The rising cost of putting food on the table in India",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg"
+    },
+    {
+      "source": "bbc.co.uk",
+      "title": "Why tiny cars are taking off across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg"
     },
     {
       "source": "bbc.co.uk",
       "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
       "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg"
-    },
-    {
-      "source": "bbc.co.uk",
-      "title": "Poundland is facing collapse - what's gone wrong?",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/419f/live/4c718920-e713-11f1-99a1-253766e7ad8b.jpg"
     }
   ]
 }
